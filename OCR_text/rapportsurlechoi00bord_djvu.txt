@@ -1,0 +1,475 @@
+RAP 
+
+
+
+PORT 
+
+
+
+SUR 
+
+
+LE CHOIX D’UNE UNITÉ DE MESURE, 
+
+
+Lu à V Académie des Sciences le i () mars 17g /. 
+Imprimé par ordre de l’Assemblée Nationale. 
+
+
+T j ’t d ée de rapporter toutes les mefures à une unité 
+de longueur prife dans la nature , s’ell préfentée aux 
+mathématiciens dès l’inftantoùils ont connu i’exiflence 
+d’une telle unité, & la poiïibilité de la déterminer: 
+ils ont vu que c’étoit le feul moyen d’exclure tout 
+arbitraire du fyftême des melures, 8c d’être fùrs de la 
+conferver toujours le même, fans qu’aucun autre évé- 
+nement qu’une révolution dans l’ordre du monde, 
+put y jeter de l’incertitude ; ils ont fenti qu’un tel 
+îyflême n’appartenant exclufivement à aucune na- 
+tion , on ne pouvoit fe flatter de le voir adopter par 
+toutes. 
+
+En effet, fï l’on prenoit pour unité unemefure déjà 
+tifitée dans un pays , il feroit difficile d’offrir aux autres 
+des motifs de préférence capables de balancer 1’ 
+derépugnance , finon philosophique , du moins très- 
+
+
+
+
+
+A 
+
+
+(>) 
+
+naturelle , qu’ont les peuples pour une imitation qui 
+paraît toujours l’aveu d’une forte d’infériorité. Il y 
+auroit donc autant de mefures que de grandes na- 
+tions. D’ailleurs , quand même prefque toutes auroient 
+adopté une de ces bafes arbitraires, mille événe- 
+ment , faciles à prévoir, pourroient faire naître des 
+incertitudes fur la véritable grandeur de cette bafe ; 
+& comme il n’y auroit point de moyens rigoureux de 
+vérification, il s’étabüroit à la longue des différences 
+entre les mefures. La diverfîté qui exifte aujourd’hui 
+entre celles qui font en ufage dans les divers pays, a 
+moins pour caufe une diverfîté originaire qui remonte 
+à l’époque de leur établiflement , que des altérations 
+produites par le temps. Enfin , on gagneroit peu , même 
+dans une feule nation, à conferver une des unités 
+de longueur qui y font ufitées : il n’en faudrait pas 
+moins corriger les autres vices du fyftême des me- 
+fures ; & l’opération entraînerait une incommo- 
+dité prefque égale pour le plus grand nombre. 
+
+On peut réduire à trois les unités qui paroiffent 
+les plus propres à fervir de bafe : la longueur du pen- 
+dule, un quart de cercle de l’équateur, enfin un 
+quart du méridien terreflre. 
+
+La longueur du pendule a paru en général mé- 
+riter la préférence ; elle préfente l’avantage d’être 
+plus facile à déterminer , & par confisquent à véri- 
+fier, fi quelques accidens arrivés aux étalons en ame- 
+noient la néceffité. De plus , ceux qui voudraient 
+adopter cette mefure déjà établie chez un autre 
+peuple , ou qui , après l’avoir adoptée , auroient 
+befoin de la vérifier , ne feroient pas obligés d’en- 
+voyer des obfervateurs à l’endroit où la première opé- 
+ration aurait été faite. 
+
+En effet, la loi des longueurs du pendule efl 
+allez certaine , affez confirmée par l’expérience , 
+
+
+pour être employée dans les opérations , fans avoir 
+à craindre que des erreurs imperceptibles. Quand 
+même , d’ailleurs , on ne voudroit pas avoir égard 
+à cette loi, on fent. qu’une comparaifon de la dif- 
+férence des longueurs entre les pendules, une fois 
+exécutée, pourroit toujours être vérifiée, êc qu’ainfî 
+l’unité de mefure deviendrait invariable pour tous 
+les lieux où cette comparaifon auroit été faite. Ainft 
+l’on y pourroit réparer immédiatement l’altération 
+accidentelle des étalons, ou y déterminer la même 
+unité de mefure, à quelque époque que l’on prit la 
+réfolution de l’adopter. Mais nous verrons dans la 
+fuite qu’on peut rendre ce dernier avantage commun 
+à toutes les mefures naturelles , & employer les 
+obfervations du pendule à les vérifier , quoiqu’elles 
+n’ayent pas fervi de bafe à leur détermination. 
+
+En employant la longueur du pendule , il paraît 
+naturel de préférer celle du pendule fimple, qui bat 
+les fécondés au quarante-cinquième degré. En effet, 
+la loi que fui vent depuis l’équateur jufqu’aux pôles 
+les longueurs des pendules (impies, faifant des ofcil- 
+lations égales, eft telle que celle du pendule au qua- 
+rante-cinquième degré eft précîfément la valeur 
+moyenne de toutes ces longueurs, c’efl-à-dire qu’elle 
+eft égale à leur fomme , divifée par leur nombre ; 
+elle eft également une moyenne , & entre les 
+deux longueurs extrêmes, prifes, l’une au pôle, 
+f autre à l’équateur , & entre deux longueurs quel- 
+conques , correfpondantes à des diftances égales 9 
+l’une au nord Ôc l’autre au midi de ce même paral- 
+lèle. Ce ne fer oit donc pas la longueur du pendule 
+fous un parallèle déterminé^ qui feroît ici l’unité de 
+mefure, mais la longueur moyenne des pendules iné- 
+gaux entre eux, qui battent les fécondés aux diverfes 
+latitudes. 
+
+A 2 
+
+
+( 4 > 
+
+Cependant nous devons obferver que cette unité* 
+ainfi déterminée , renferme en elle-même quelque 
+chofe d’arbitraire. La fécondé de temps c IL la quatre- 
+vingt fi x mille quatre centième partie du jour* & par 
+conféquent une divifion arbitraire de cette unité 
+naturelle. Ainfi , pour fixer l’unité de longueur, on 
+emploie non-feulement un élément hétérogène (le 
+temps) mais un élément arbitraire. 
+
+Â la vérité oh éviteroit ce dernier inconvénient 
+en prenant peur unité le pendule hypothétique , qui 
+ne feroit qu’une qfcilJation en un jour; longueur qui * 
+divifée en d : x milliards de parties , donneroit une 
+unité de mefure ufuelle d’environ vingt-fept pouces; 
+& cette unité répondroit au pendule , qui fait cent 
+mille ofcilîations dans un jour; mais alors on con- 
+ferveroit encore l’inconvénient d’admettre un élé- 
+ment hétérogène , Sc d’employer pour déterminer une 
+unité de longueur, le temps, ou ce qui efl la même 
+chofe ici, l’intenfité de la force de gravité à la fur- 
+face de la terre. Or, s’il efl: poflîble d’avoir une unité 
+de longueur qui ne dépende d’aucune autre quantité, 
+il paroit naturel de la préférer. D’ailleurs, une unité 
+de mefure , prife fur la terre même, à un autre avan- 
+tage, celui d’être parfaitement analogue à toutes les* 
+mefures a élu efl es , que, dans les ufageS communs de 
+la vie., l’on prend auiTi fur la terre , telles que les 
+diflances entre des points de fa furface , ou l’éténdue 
+de portions de cette même furface. Î1 efl: bien plus 
+naturel en effet de rapporter la difîanc.e d’un lieu à 
+un autre, au quart d’un des cercles terreftres , que 
+de la rapporter à îa longueur du pendule. 
+
+Nous avons donc cru devoir nous déterminer pour 
+ce genre d’unité de mefure, Sc préférer enfui té le quai* 
+du méridien au quart de l’équateur. Les opérationt 
+née affair es pour déterminer ce dernier • élément 3 ne 
+
+■V \ . "■ ' ■ . - £ 
+
+
+( ? ) 
+
+potirroient s’exécuter que dans des p?âys trop éloignés 
+de nous , pour qu’elles n’entraînalfent; pas des dépenfes 
+& des difficultés fort au - defius des avantages qu’on 
+pourroit s’en promettre. Les vérifications , fî jamais 
+on vouloit y recourir, feroient plus difficiles pour toutes 
+les nations , du moins jufqu’au temps où les progrès de 
+la civilifation s’étendront aux peuples de l’équateur $ 
+temps malheureufement encore bien éloigné ae nous* 
+La régularité de ce cercle n’efl pas plus allurée que 
+la fimiiitude ou la régularité des. méridiens. La gran- 
+deur de l’arc céleffe , répondante à l’éfpace qu’on au- 
+roitmefuré, eft moins fufceptible d’être déterminéeavec 
+précifion ; enfin on peut dire que chaque peuple ap- 
+partient à un des méridiens de la terre , mais qu’une 
+partie feulement eh placée fous l’équateur. 
+
+Le quart du méridien terreflre deviendront donc 
+l’unité réelle de rnefure ; & la dixmillionième partie de 
+cette longueur en feroit l’unité ufuelle. On voit ici que 
+nous renonçons à la divifion ordinaire du quart du 
+méridien en po degrés , du degré en minutes , de la mi- 
+nute en fécondés; mais on ne pourroit conferver cette 
+ancienne divifion fans nuire à l’unité du fyfiême de 
+mefures , puifque la divifion décimale, qui répond à 
+l’échelle arithmétique , doit être préférée pour les me- 
+fures d’ufage, & qu’ainfi l’on auroît, pour celles de 
+longueur feules, deux fyftêmes de divifion, dont l’un 
+s’adapteroit aux grandes mefures, & l’autre aux petites. 
+La lieue, par exemple, ne pourroit être à-la-fois ôc une 
+divifion fimple du degré , & un multiple de la toife en 
+nombre rond. Lesinconvéniens de ce double fyfiême 
+feroient éternels ; au contraire ceux du changement 
+feront paffagers; ils ne tomberont d’ailleurs que fur un 
+petitnombre d’hommes accoutumés au calcul; 8c nous 
+n’avons pas cru que la perfection de l’opération dût 
+
+Rapport fur V unité dçs Mefures . A 3 
+
+
+( 6 ) 
+
+être facrifîée à un intérêt qu’à beaucoup d’égards nous 
+pouvions regarder comme perfonnel. 
+
+En adoptant ces principes , on n’introduira rien 
+d’arbitraire dans les mefùres que Féchdle arithmétique 
+fur laquelle leurs divifîons doivent nécelfairement fe 
+régler. De même il n’y aura rien d’arbitraire dans les 
+poids que le choix de la fubftance homogène & 
+facile à retrouver toujours dans le même degré de 
+pureté & de denfïté à laquelle il faut rapporter la 
+pefanteurde toutes les autres, comme, par exemple , 
+fi l’on choiht pour bafe l’eau diflillée pefée dans le vide 
+ou rappelée au poids qu’elle y auroit, Ôc prife au degré 
+de température où elle palfe de l’état de folide à celui 
+de liquide. C’eft encore à ce même point de tempé- 
+rature que feroient rapportées toutes lés mefures réelles 
+employées dans les opérations ; en forte qu’il n’exif- 
+teroit dans tout FenfemMe du fyfiême rien d’arbitraire 
+
+3 ue ce qui l’eft néceflairement , 8c parla nature même 
+es chofes. Encore le choix 8c de cette fubftance 8c 
+de ce terme de température , eil-il fondé fur des raifons 
+phyfiques , 8c la confervation de l’échelle arithmétique 
+actuelle eft-elle prefcrite par la crainte du danger au - 4 
+quel ce changement ajouté à tous les autres , expo- 
+feroit le fuccès de l’opération entière. 
+
+La mefure immédiate du quart d’un méridien ter- 
+jeftre feroit impraticable ; mais on peut parvenir à en 
+déterminer la grandeur, en mefurantun arc d’une cer- 
+taine étendue , pour en conclure la valeur de l’arc 
+total , foit immédiatement , foit en déduifant de cette 
+mefure la grandeur d’un arc du méridien , répondant 
+à la centième partie de Tare célefte de 90 degrés, 8c 
+pris de manière qu’une moitié de cet arc foit au midi % 
+& l’autre au nord du quarante-cinquième parallèle. En 
+effet , comme cet arc eftla valeur moyenne de ceux qui a 
+depuis l’équateur jufqu’aux pôles., répondent à des par^ 
+
+
+( 7 ) 
+
+tjes égales de l’arc célefte, ou, ce qui revient au même, 
+à des diftances égales en latitudes , en multipliant cette 
+mefure par cent , on aura encore la valeur du quart 
+du méridien. 
+
+Les accroiffemens de c es arcs terrefîres fuivent la 
+même loi que ceux du pendule ; & Tare qui répond 
+à ce parallèle efl moyen entre tous les autres, de la 
+même manière que le pendule du quarante-cinquième 
+degré , l’efl entre tous les autres pendules. 
+
+On pourroit objeéter ici que la loi des accroiffemens 
+des degrés, en s’avançant vers les pôles, n’efl pas auffi 
+certaine que celle des accroiffemens du pendule , quoi-, 
+que l’une 8 c l’autre ne renferment que la même fup- 
+poiition , celle de l’ellipticité des méridiens. On pour- 
+roit dire qu’elle n’a pas été confirmée également par 
+les obfervations. Mais, i°. il n’exifte pas d’autre moyen 
+d’avoir la valeur du quart d’un des cercles terrefîres. 
+2°. il n'en réfulte aucune inexactitude réelle, puifaue 
+l’on a la longueur immédiate de l’arc mefuré , avec 
+laquelle celle que l’on aura conclue fera toujours dans 
+un rapport connu. 3 0 . l’erreur qu’on peut commettre 
+ici dans la détermination de la centième partie du quart 
+du méridien, ne feroit pas fenfible. L’hypothèfe ellip- 
+tique ne peut s’éloigner de la réalité dans l’arc , dont 
+la grandeur fera mefurée immédiatement ; ellerepré - 
+Tentera néeeffairement avec une exactitude fufîifante , 
+la petite portion de courbe prefque circulaire , même 
+un peu applatie, que forme cet arc. 4 0 . Enfin , fi cette 
+erreur pouvoit être fenfible , elle pourroit auffi , par 
+une conféquence néceflaire , être corrigée parles ob- 
+fervations mêmes. Il ne peut fubfifier d’autre erreur 
+quecelle qui feroit inappréciable parles obfervations. 
+
+Plus l’arc mefuré fera étendu , plus les déterminations 
+qui en réfuitent feront précifes. En effet , les erreurs 
+commifes dans la détermination de Tare célçfle , oa 
+
+
+C .8 ) 
+
+meme dans les me fur es terreftres , & celle de fhypô- 
+thefe, auront une influence d’autant moins fenfible fur 
+les réfultats, que cet arc fera plus grand. Enfin il y a 
+de l’avantage à ce que le s points extrêmes fe trouvent 
+1 un au midi , 1 autre au nord du parallèle de quarante- 
+cinq degrés , à des diftances qui , fans être égales, 
+ne loient pas trop difproportionnées. 
+
+Nous propoferons donc de mefurer immédiatement 
+un arc du méridien , depuis Dunkerque jufqu’à Bar- 
+celone ; ce qui comprend un peu plus de neuf degrés 
+& demi. Cet arc feroit d’une étendue très-fulü faute , 
+& il y en auroit environ fix degrés au nord, & trois 
+Sc demi au midi du parakèfle moyen. A ces avantages 
+fe joint celui d’avoir fes deux points extrêmes égale- 
+ment au niveau de la mer. C’eft pour fatisfa ire à cette 
+dernière condition qui donne des points de niveau 
+invariables Sc déterminés par la nature, pour augmenter 
+la grandeur de l’arc mefuré , pou*- qu’il foit partagé 
+d’une manière plus égale ; enfin , pour s’étendre au- 
+delà des Pyrénées, Sc fe fou.flraire aux incertitudes que 
+leur effet fur les inftrumens peut produire dans les ob- 
+fervations, que nous propofons de prolonger la mefure 
+jitfqu’à Barcelone. On ne peut ni en Europe ni même 
+dans aucune autre partie du monde, à moins de me- 
+furer un arc d’une étendue beaucoup plus grande , 
+trouver une portion de méridien qui fatisfaffe en même 
+tems à la condition d’avoir les deux points extrêmes 
+au niveau de la mer, Sc à celle de traverfer le quarante- 
+cinquième parallèle , fi on ne prend pas ou la ligne 
+que nous propofons , ou bien un autre méridien plus 
+occidental depuis la côte de France, jufqu’à celle d’Efpa- 
+gne. Ce dernier arc feroit plus également partagé par le 
+parallèle , mais nous avons préféré celui qui s’étend de 
+Barcelone à Dunkerque, parce qu’il fuit la méridienne 
+déjà tracée en France , Sc qu’ainfï il exifle déjà une 
+
+
+C 9 ) 
+
+
+me fure de cet arc depuis Dunkerque jufqu’à Perpignan, 
+& qu’il eft avantageux de trouver dans les travaux déjà 
+faits une vérification de ceux que l’on doit exécuter. 
+En effet, fi dans les nouvelles opérations on retrouve 
+pour la difiance de Perpignan à Dunkerque , un ré- 
+fuitat fembîahle dans toutes fes parties, on a un motif 
+de plus de compter fur la bonté de ces opérations. 
+S’il fe trouve des différences , en cherchant quelles en 
+font lescaufes , 8c de quel côté eff l’erreur , on feraiûr 
+de découvrir ces'caufes , & de corriger l’erreur. D’ail- 
+leurs en fuivant cette direction, on traverie les Pyrénées 
+dans une ligne plus facile à parcourir. 
+
+Les opérations néceffaires pour ce travail, feroient 
+i°. de déterminer la différence de latitude entre Dun- 
+kerque 8c Barcelone, 8c en générai de faire fur cette 
+ligne toutes les obfervationsaffronomiques qui feroient 
+jugées utiles, 2 °. De mefurer les anciennes bafes qui 
+ont fervi à la mefure du degré faite à Paris, & aux tra- 
+vaux de la carte de France. 3 0 . De vérifier par de nou- 
+velles obier varions la fuite des triangles qui ont été 
+employés pour mefurer la méridienne , 8c de les pro- 
+longer jufqu’à Barcelone. 4 0 . De faire au quarante- 
+cinquième degré des obfervations qui ^confiaient le 
+nombre des vibrations que feroit en un jour, dans le 
+vide au bord de la mer, à la température de b. glace 
+fondante, un pendule fimple , égal à la dixmillionième 
+partie de l’arc du méridien , afin que ce nombre étant 
+une fois connu , on piiific retrouver cette mefure par 
+les obfervations du pendule. On réunit par ce moyen 
+les avantages du fyfiême que nous avons préféré, 8c 
+de celui où l’on auroit pris pour unité la longueur du 
+pendule. Ces obfervations peuvent fe faire avant que 
+çette dixmiliioaième partie loit connue. Gounoiffant en 
+
+
+( 10 ) 
+
+effet le nombre des ofcillations d’un pendule d’une 
+longueur déterminée, il fuffîra de connoître dans la 
+fuite le rapport de cette longueur \ cette dixmillio- 
+nième partie , pour en déduire d’une manière certaine 
+le nombre cherché. 5 0 . Vérifier par des expériences 
+nouvelles , & faites avec foin , la pefanteur dans le 
+vide d’un volume donné d’eau diftiliée prife au terme 
+de la glace. 6°. Enfin réduire aux mefures aduelles 
+de longueur les d fférentes mefures de longueur de 
+furface ou de capacité ufitées dans le commerce, 8c 
+lesd:ffirens poids qui y font en ufage, afin de pouvoir 
+enfui te , par de Amples règles de trois, les évaluer en 
+mefures nouvelles , lorfqu’elles feront déterminées. 
+
+On voit que ces diverfes opérations exigent fix 
+CommJ.fiions fiparées, occupées chacune d’une de ces 
+parties du travail. Ceux à qui l’Académie en confieroit 
+le foin , feroient en même tems chargés de lui expofer 
+la méthode qu’ils fe propofent de fuivre. 
+
+Nous nous fommes bornés , dans ce premier rapport^ 
+à ce qui regarde l’unité de mefure : nous nous pro- 
+pofons de prélenter dans un autre le plan du fyftême 
+général qui doit être établi d’après cette imite. En effet , 
+cette première détermination exige des opérations 
+préliminaires qui demandent du temps 8: qui doivent 
+être préalablement ordonnées par FAffemblée Natio- 
+nale. Nous nous fommes cependant déjà affez oc- 
+cupés de ce plan; & les réfuitats des opérations, 
+tant pour la mefure de l’arc du méridien , que pour 
+le poids d’un volume d’eau donné , peuvent être 
+prévus d’une manière afiez approchée, pour que nous 
+publions aiîurer dès aujourd’hui , qu’en prenant l’unité 
+de mefure que nous venons de propofer, on peut 
+former un fyftême général où toutes les dl valons 
+
+
+( II ) 
+
+fuivent l’échelle arithmétique, & dont aucune partie 
+ne renferme rien qui puifiè gêner dans les ufages 
+habituels. Nous nous bornerons à dire ici que cette 
+dixmillionième partie du quart du méridien, qui fe- 
+roit notre unité ufuclle de mefure, ne diffireroit du 
+pendule (impie que d’un cent quarante cinquième en- 
+viron , & qu’ainfi l’une 3c Fautre unité conduifent à 
+des fyflêmes de mefure abloiument femblables dans 
+leurs difpofitions. 
+
+Nous n’avons pas cru qu’il fût néceflaire d’attendre 
+le concours des autres nations , ni pour fe décider 
+fur le choix de l’unité de mefure , ni pour com- 
+mencer les opérations. En effet, nous avons exclu 
+de ce choix toute détermination arbitraire ; nous 
+n’avons admis que des élémens qui appartiennent éga- 
+lement à toutes les nations. Le choix du quarante-cin- 
+quième parallèle n’efl point déterminé par la pofi- 
+tion de la France; il n’efl pas confidéré ici comme 
+un point fixe du méridien , mais feulement comme 
+celui auquel correfpondent la longueur moyenne 
+du pendule , 3c la grandeur moyenne d’une divifion 
+quelconque de ce cercle; enfin, nous avons choifl 
+le feul méridien où l’on puiffe trouver un arc abou - 
+tiiTant au niveau de la mer à fes deux extrémités , ôc 
+coupe par le parallèle moyen, fans être cependant 
+d’une trop grande étendue, qui en rende la mefure 
+aéiuelle trop difficile. Il ne fe préfente donc rien ici 
+qui puîffe donner le plus léger prétexte au reproche 
+d’avoir voulu affeéfer une forte de prééminence. 
+
+Nous concluons, en conféquence, a préfenter ce 
+rapport à FAfTembîée NatL nale , en la priant de vou- 
+loir bien décréter les opérations propofées 3c les me-< 
+
+
+n 
+
+0 / 
+
+
+C 12 ) 
+
+fores nécefîaires pour l’exécution de celles qui doivent 
+s’étendre fur le territoire de l’Efpagne. 
+
+Fait à l’Académie le 19 mars 1791. Signé Borda, 
+la Grange, la Place, Monge, Condorcet. 
+
+Je certifie le préfent extrait conforme à l’original 
+8c au jugement de l’Académie. A Paris le 21 mars 1791. 
+
+CONDORCET, Secrétaire perpétuel 
+
+
+
+DE L’IMPRIMERIE NATIONALE» 
+
+
+/ 
+
+

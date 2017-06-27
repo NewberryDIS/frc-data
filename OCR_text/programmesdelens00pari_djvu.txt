@@ -1,0 +1,3727 @@
+
+PROGRAMMES 
+
+
+1,’ENSEIGKEMENT POLYTECHNIQUE 
+
+» # 
+
+DE L’ÉCOLE CENTRALE 
+
+
+BS TBAVAtri PUBLICS, 
+
+'ÈTjiszxE en vertik. des décrets de la 
+Convention nationale ^ des 2 t ventâje 
+an deuséième f Ù •j vendémiaire 
+, troîfième de la République. 
+
+I - 
+
+Imprittiés par ordre des trois comités réunis 
+public, d’inftruétion publique & des travaux 
+
+
+A ? A R I S , 
+
+I>E L’IMPRIMERIE NATIONALE 
+
+P I. ¥ V I Ô E , Am III. 
+
+
+
+
+avertissement. 
+
+Les Programmas aue Von va lire fervent de bafe 
+à renfeiffnement polytechnique definé aux ekves de 
+
+l'école centrale destravaux publics, Ct qui douleur etre 
+
+donné d'abord dans des cours préliminaires , qui ont 
+commencé le i" nivôfe dernier, ü (dureront trois mou , 
+enfuite dans les cours habituels > 
+
+années d'étude, conformément a ce qui «fi Vrejcnt 
+par l'organifationde l'école. On conçoit 5“^ "^2 
+tuteurs doivent fe proportionner, , >-^or£ 
+
+mensqu'iU donneront a leurs ^ 
+
+vie, favoir: pour les cours Vf liminaires qm 
+feront feulement écoutes par les 
+offiir , dans un tableau rapide, igj 
+
+chaque fcience ; €t pour 
+
+explications les pluspropres a les guider dans V 
+
+rations qu'ils exécuteront eux- memes, ü qui Jont 
+
+rincipale partie de leur travail. 
+
+îja l'expérience prouve que le 
+L fera pas infruêlueux ; que l'at entior^ a I 
+■ de là plupart des jeunes eleves leur font 
+CA de notions des objets qui leur font montres, 
+urnir le moyen de les clafjèr en trois parties, 
+ent à leurs forces, pour mettre a portée ceux 
+vlacés dans les claffes les plus avancées 
+■l'inflruêiion, fans avoir befom de recourir 
+^nfiées précédentes, €t pour faire concevoir 
+andcs efpérances du f accès de tous, torfquhh 
+joint la pratique aux études de la théorie. 
+
+On fe propofe d'ailleurs de corifater ces progrès 
+d'une manière plus déterminée, par un bulletin qui en 
+reiidrci compte chaljU6> mois^ 
+
+■ |#l 
+
+
+-fice 
+
+
+
+
+TABLEAU qui présente la liaison et 
+
+
+
+Les sciences mathéma- 
+tiques , qui se divisent 
+
+
+de 
+
+
+IQUE 
+
+
+des îra- 
+prend.. 
+
+
+Description des objets. 
+
+
+‘Générale 
+
+
+Particulière ou Chimie. 
+Elle traite, dans la. . . 
+
+
+
+
+
+
+
+A N. A LYSE 
+
+appliquée a la géométrie 
+
+
+premiéreparti 
+
+Solution analytique 4es équations .<ies 
+miers degrés.. ■ 
+
+'Précis des recherckcs 
+folution des équario^^s 
+
+^ Méthodes pour trQu>îer par apprcxnr.aiion 
+des é>iuations numériques et littéralej, ■ 
+
+^ Eliminations ' des inconnues. Pio’bl''-mes 
+minés. 
+
+SoIution^ géoi-nétrique des équations : 
+
+Par i inrerfedlion des courbes olanej 
+Pat 1 inrerfeél'ion des furfaces. ' 
+
+Théorie des lignés courbes , planes cV 
+
+courbure. ^ " 
+
+Théorie des furfaces. ^ . 
+
+JD EüXlEME PARTI 
+
+\ 
+
+Théorie des fuites, des fraâions continu' s 
+Ues qualités logarithmiques & ernoneprii 
+
+. , l>nalyfe à quelques queliioncd: 
+
+babiiices & d arithmétique politique. 
+
+' Elerneàs du calcul diTérentiel. 
+
+Différences finies. 
+
+Â ' 
+
+
+I 
+
+i. 
+
+
+Différences infiniment petites. 
+
+Ufage du calcul .différentiel pour déterminer les tan- 
+gentes normales S^c. des lignes courbes ; 
+
+I.es plans tangens , normaux , &c. , des f»rfaces 
+
+çrocrbes 5 ^ ' 
+
+Des iurfaces développables. 
+
+TROISIÈME PARTIE. 
+
+T ' 
+
+Elémens du calcul intégral. 
+
+Intégrales complètes , Sc intégrales particulières. 
+Méthode pour intégrer les équations linéaires. 
+
+Des équations aux différences partielles , & des fonc^ 
+tiens arbitraires qui y entrent. 
+
+Reéfcifications , quadratures, 6cc. 
+
+De rintégration des équations aux différences finies; 
+Méthode des variations. 
+
+
+
+
+
+
+
+La géométrie defcriptive eft l’art de reptéfentcr fut 
+des feuilles de deflin qui n’ont que deux dimcnfions, 
+les objets qui eu ont trois, de qui font fufcepribles d iin« 
+définition ngouicule, de déduire de cette repréfenta- 
+tion exaéle tout ce qui télulte nécefiai renient de 1 a 
+forme des objets te de leur poficion rcfpetlive. 
+
+La fcience qui a pour objet d’expoLr les méthodes de 
+la géométrie cleicriptivc , de les generaliier pouc les 
+rendre pliu utiles , de les adujérir à toute la ligueur 
+dont elles font fufcepiiblcs en kur conrervant' néanmoins 
+l’évidence, qui clt leur cs-iaitcrc propre ^ sapptllo 
+Stéréotomie, 
+
+Le but du cours tévûîuticnnaîrc de ftéréotomie fera 
+de faire coniioître les procédés de la géométrie deferip- 
+clvc dans toute leur généralité ^ de les appliquer d abord 
+à la détermination ngourenfe des ombres dans les def- 
+fins , ce qui rend plus difim'éle la repréfentation des 
+objets j d'expolcr les lo-is de la gradation des teintes des. 
+diîférens points de la furface des ce^rps , tuivant la 
+fition de ces points par rapport au corps lumineux qui les 
+éclaire, par rapport à rœil quij les voit^ &^par rap- 
+port au milieu qui les lenfcrrne. Ces lois nonc rien 
+d’arbitraire i comme toutes les autres lois de la natups , 
+
+' elles font confiai nment oblérvécq & toutes les circcnfiaiices 
+étant bien conaues , les e&ts peuvent toujours etre 
+
+L’application la plus ingénieufe de la géqméine dei- 
+criprlvc , efi celle qu’on a coutume den faire aux conf- 
+truclions graphiques de l’art de la coups des pierres cC 
+de celui d^ U charpenterie. Les confiruclions^ par leur. 
+
+
+
+1 
+
+génér^ité & par leur élégance , font très- propres 1 en 
+faire bien connoitre l’ufage ic à en développer toute» 
+
+Ce font les méthodes de la géométrie defcriptive qui 
+fervent de ba-e æux opérations de la géographie, & à 
+
+I emploi que Ion peut faire de la peinture pour rendre 
+Plus frappante aux yeux moins exercés h repréfentation 
+des objets fur les cartes topographiques. 
+
+Enfin cette géométrie peut fervir â l’étude de la forme 
+des corps que I on peut avoir intérêt de bien connoître. I| 
+
+II lera donc avantageux aux élèves de l’école centrale ! 
+
+des travaux publics , de s’appliquer à l’étude de la forme H 
+
+de toutes^ les machines élémentaires , Sc à cfellé de la 
+compofition des principales machines employées dans les 
+
+aris , foit qu’elles aient pour but de fimplifier la main- i 
+
+d oeuvre, & de donner aux produits des arts plus d'uni- ;! 
+
+formite & plus de précifion , foit qu’elles aient pour 
+ob;et d emprunter ies forces de la nature, de les diriger f 
+
+& de les modifier d’une manière utile , & par là d’ac- ! 
+
+crome le domaine de rhomme & d’augmenter la ' 
+
+püiiiance naaonale. 
+
+Toutes ies parties feront diftribuées dans le cours té- ' 
+volutionnaire, de la manière fuivanre: - 
+
+I"" IfCO.V. 
+
+Expofition de la méthode des pfojeftions; procédés 1 
+qui en facilitent rufage. 
+
+1 P Leçon. 
+
+Détermination des plans tangens & des normales auW 
+furfaces coufbes ; des tangentes & des plans normaux 
+aux courbes â double courbure. ^ 
+
+IIP Leçon. 
+
+Conftrüdion des interfeétions des furfaces courbes.* 
+Exemples du genre de qneftions à la folution dcf- 
+queiles cette méthode eft principalement propre. 
+
+
+
+
+I V® Lefon, 
+
+Génération, i ropriérés &: conüniftion dïs (iirf-cK dJ- 
+veloppables, & de toutes celles qui font enujiidrjcs p r 
+le mouvemen: d’une ligne droite. 
+
+\ ® Leçon. 
+
+Exarnen des^deux courbures d’ime furface coL'r'''e ci 
+general* de la manière dont elle ell divifée p.tr \ js Uci ; 
+lyftènies de Tes lignes de courbure; de la polnion d. ; 
+deux furfaces c]ui padent par les centres de courbure, ô:j. 
+
+VP 8c VI P Leçons. 
+
+-Application de la géométrie deferiptive â Ja conT- 
+fruélion rigoureufe du contour de l’ombre d’un corps 
+quelconque portée fur une lurlace Cjueîconque_, <%: d ccl'c 
+de la ligne qui fépare ,, fur la' fu' face du corps ci’.ii pv^rte 
+ombre, la partie éclairée de la partie ebicure , foie ouo 
+lobjet lumineux foit un point unique, foic ru’il eût 
+ctimenfions finies. ^ 
+
+V IIP Leçon. 
+
+Principes de la perlpeiftive aérienne. 
+
+Dégradation des teintes, foit dans 1 ombre, foir da ::7 
+le jour , fuivanc la pofitiori des parties de la farfâ« 
+des corps, & par rapport à lobjet lumineux, & par 
+rapport a 1 obrervateur. 
+
+Altérations qn elles paroilTent éprouver dans leurs cou- 
+leurs propres , d’après la nature du corps lumineux, -x 
+ci apres les jugemens que nous fommes induits â porter 
+par les circonfianccs environnantes. 
+
+1 X® Leçon. 
+
+_ Application de k géométrie deferiptive aux conîlruc- 
+tions de la perfpeéfive linéaire. 
+
+XS Xk & X I P 
+
+Dq la Coupe des pierres. • * 
+
+Ordonnance des voûtes & voufiiires. ’ ' 
+
+
+
+
+Convenances auxquelles elies doivent fatisfake. 
+Décompoiîtion des voûtes & voitfrolrs. 
+
+Procédés par lefquels on donne a chacune des pierres 
+qui entrent da«s la comporicloii d’un édihee la forme 
+qu’elle doit avoir. 
+
+Üfa^e de la géométrie deferiptive pour cet objet, 
+
+1 1 P , X I , X V' & X V P Leçans. 
+
+De l’arc de la charpenterie. 
+
+Ordonnance générale des ouvrages de charpenterie. 
+Procédés par lefqnels on donne à chaque pièce U 
+iûic. avoir, i®. lorfque la pièce eft droite, 
+doit être terminée par des futfâces^ 
+7 
+
+ge de la géométrie deferiptive pour cer objet. 
+XVIP, XVIIP , XIX" & XX" Leçons, 
+
+De la topographie. 
+
+Méthodes par lefquellcs on détermine avec précifion. 
+h pofîtion des principaux points d’une grande carte. 
+Moyens par lefquels on exécute les remplilTages. 
+
+I,es différeiis procédés du nivellement. 
+
+De Fart de figurer fur les cartes les formes ôc les. 
+sccidens du terrein. ' 
+
+XXP, XXIP , XXÎIP Sc XXIV" leçons. 
+
+Expofitîon des divers mécanifmes , au moyen def- 
+quels on peut convertir les uns dans les autres, les dif- 
+lérens genres de mouvement. 
+
+Mécanifmes par lefquels on facilite les mouvemens 
+de tous les genres. 
+
+sreription des principales machines connues dan& 
+mues par les animaux, ou par des forces 
+la nature. 
+
+
+ARCHITECTURE. 
+
+I 
+
+
+PREMIÈRE PARTIE. 
+
+l ■ 
+
+Les difFérens objets d’etifei- , L‘application de l’art de canftruire , 
+gnemeiît attribues a la première I à l’établiflement des commiinicatious 
+partie de 1 architedure , font en | de toute efpèce, foit par terre, foir 
+général : . V paj. ^au. 
+
+Art de conftruire confiée a élever, conformément aux 
+principes de la phyHque fuivanc certaines formes & avec 
+certaines matières, des mafïes que généralement on peiic 
+appeler édifices.CQS malTp- qdi, feion la mo.iifcarion quelles 
+reçoivent, deviennent de^ ponts , des eciiifes^ des digues, 
+des maifons, &c,, font des édifices publics ou particuliers , 
+civils ou militaires , félon l’idage auquel ils font de'linés* 
+
+Ces malles ou eciifices font conftruits dans l’eau ou hors 
+de 1 eau; mais tous ont leur b-^^e appuyée fur le fol, 
+inediatement ou immédiatement : rétablilîemeiic de cette 
+bafe s’appelle une fondation. 
+
+Cette fondation fe fait de di-fFérentes manières , félon la 
+nature des couches du terrein fur lequel iedifice doit être 
+elevé , & aiiiti félon qiiil doit être confcruit, dans Teau, 
+pa hors de leaii. 
+
+Le cerrein fur lequel on ell oblic i de fonder , eft na- 
+turellement en état de réfiller aux c. qdon veut lui 
+faire porter * ou ne le devient que par des moyens artificiels. 
+
+Ces moyens leronc indiqués dans les diverfes leçons du 
+
+Architecture. Vremïere Fartie, C 
+
+
+# 
+
+
+cours amfi que les rapports, procédés & précautions fuivant 
+quelle conftruite, félon la modification 
+
+Les communications qui * en liant tmi, i 
+
+territoire de la Réputliq^ue, doivent contribuer àTprot 
+pence & a fa sûreté 
+
+par les grandes routes, 
+par les ponts, 
+par les canaux $c rivières. 
+
+extérieurement ,( & les ports mariti- 
+
+l mes. 
+
+
+
+
+font 
+
+
+intérieurement 
+
+
+{ 
+
+
+Article premier. 
+
+
+xce class 
+
+
+. |qui.en partant de Paris , abonti/Tent au» 
+
+^ CXtr^mir^c 
+
+
+Grandes Routes, 
+
+i t en partant * ans , aoout 
+extrémités de la République. 
+
+l«êrande.rout„,e/ jTl conduifeat 
+
+diritenten < ) ‘•^rtement a département. • 
+
+je classe. |qui m^en^ particulièrement de difttia 
+
+4e classe (<1“‘ «communiquent de commune à com- 
+V mune. ' 
+
+f ia chaussée "{qui peut être construite en J empierre- 
+
+£ ^ & Câilloutiï 
+
+■c.acc.tcmcus{quifontdefti„^^ 
+
+l a recevoir les matériaux de 1-enttetien. 
+les fossés I f.'/orveut à fépater le chemin des pro- 
+
+Lcut «écauon peutC Part de 1 . 
+
+î^eSÏ ivrij, 
+
+l ertdelcsconftroirc \ en pays de montagnes. 
+
+r la levée & le deflin du plan du lieu ou la 
+L’art de les projeter exige / 5 
+
+. des nivelleisens en longueur & en traversj 
+t des calculs de terralTes. 
+
+
+
+t’arc de les conftruîrc con- 
+fiilc dans 
+
+
+des Ponts 
+cil de 
+
+
+
+les diftingue en 
+
+
+Ponts de maçonnerie. 
+Ponts en bois. 
+
+Ponts en fer. 
+
+
+tes Ponts de maçonnerie 
+fc divifent en 
+
+
+Ponts en maçonnerie. 
+
+Grands PontsU une ou ploCtur* arches; 
+
+
+{ P arcncs ; 
+
+onts moyens , aulîî a une ou plufi«urs arcliwf 
+Petits Ponts ou Ponteaux. 
+
+
+vent être con/îciérés reladve- < projeter, 
+
+ment a / * 
+
+
+1 art de les conftruire. 
+
+
+Ial=.éc du plan r f „ j 
+
+J ment diT ^ - 
+
+
+l’art de les projeter 
+«©mprend ; 
+
+
+du loçal 
+
+
+le» fondes 
+
+
+les nivellemcns , 
+
+
+méat du p©at. 
+
+n.“rl d"*"' “Moîue la na, 
+
+s établir, fc qui filent les idées fut 
+le parti quon a à prendre relatiye- 
+mentant moyens de fonder. 
+
+au moyen defquelson connoîtle* 
+indgahtds du tertein, la profon- 
+deur du ,it de U rivière , la Lurent 
+e tes eaax dans les plu* grandes 
+
+«Bcsfcles plus grandes fç'cherflTe^, " 
+
+G « 
+
+
+
+
+les calculs 
+
+
+L*art de les projetef 
+comprend"; 
+
+
+les épures & 
+deffins 
+
+
+que l’on fait pour fixer, i®.de’nom- 
+bre des arches , leur ouverture , la 
+courbure de la voûte, & fa hauteur 
+au - defliis des plus baffes eaux; 
+
+répaiûeur à donner aux piles, 
+culées & autres parties du pont j 
+5°. les rapports qui doivent exifter 
+entre le poids dupont & les moyens 
+de réfifrance à oppofer. 
+
+qui font néceffaires pour indiquer 
+l’appareil du pont , les formes de 
+fes différentes parties & fon genre 
+de décoration, qui doit être choifi 
+en raifon de fon efpèce & du lieu 
+oii il doit être bâti. 
+
+
+- § II- 
+
+Ponts en charpente. 
+
+Les ponts en charpente fe dlvifent, comme ceux 'Cn ma- 
+çonnerie , en grands, moyens ^ petits ponts; ils exigent, 
+pour leur conftrudtibn , les mêmes opérations préliminaires , 
+& on compofe leur afTemblage en raifon de la force du 
+bois qu’on a à fa difpofîtion. 
+
+Il y en a de plufieurs fortes, &ils portent différons noms 
+félon leur difpofîtion. 
+
+
+Sur des appuis fixes en bois 
+ju’on appelle palées : 
+Sur des appuis fixes en 
+pierre , qu’on nomme piles 
+h culées ; 
+
+Sur des tourillons hori- 
+zontaux : 
+
+Sur un axe vertical: 
+Sur des roulettes .* 
+
+Sur des appuis mobiles , 
+comme pontons, cordes, 
+bai6aviz« 
+
+
+c’eft ce qu’on appelle, proprement dit, 
+un pont en charpente. 
+
+^ c’efi: un pontprovifoirement en charpente. 
+
+I c’efi un pont - le vis. 
+
+} c’efl un pont tournant, 
+
+} c’efl un pont roulant, 
+
+ce.font de? ponts-volans, •; 
+
+
+
+
+s 
+
+§. III. 
+
+Ponts en fer» 
+
+
+Ces ponts peuvent être coiifidérés fous les mêmes points 
+de vue que ceux ' en bois , dcfquels ils ne diffèrent qu’en 
+ce que leurs diverfes parties conftituantes, au lieu d’être des 
+pièces de bois, font des pièces en fer battu ou coulé, félon 
+le fyftême d’affemblage adopté. 
+
+A. R T. III. 
+
+
+Rivières & canaux navigables» 
+
+O 
+
+. §• I" 
+
+Rivières. 
+
+Quand, une rivière n ’eft pas navigable , elle peut fouvent 
+le devenir. 
+
+
+En employant 
+
+
+{■: 
+
+
+le curement de fon lit, 
+
+' des digues de Karagc, 
+le retréciiTement de fon lit 
+
+
+avec permis, 
+avec fas & ^cliifes. 
+
+
+
+préfente qu’une navigation longue & 
+pénible , ^ on parvient à la rendre meilleure &c pins com- 
+mode , ^ 
+
+lenlèvement des obftacles qui gênent , 
+
+le creufement de petites parties de canal, poui éviter les obfta- 
+cles, quand ils font infurmon tables , 
+
+le redreffemenc de fou cours , fi on peuc le faire fans changer 
+trop ienlibiement la vicefîc de loo cours. 
+
+
+Ârchïticiurc. Première Tarde. -è C 3 
+
+
+
+_ §■ II. 
+
+Canaux, 
+
+Les canaux tiennent ' lieu de rivières, au moyen de- 
+
+PInfi pour les alimenter 
+
+rlufeeurs objets fe font remarquer dans un canal de na- 
+vigation. t li* 
+
+le point de partage , 
+les fas , 
+
+Ces objets font { les éclufes, 
+
+les déverfoirs j, 
+les icverfoirs. 
+
+L art de projeter un canal de navigation exige une at- 
+tention particulière, une grande habitude d’obferver, <Sc 
+une exaétitude fcrupuleufe dans les différentes opérations , 
+/ 
+
+la levée du plan du lieu où l’on doit établir 
+le canal, 
+
+des nivellemens , 
+des fondes , 
+des calculs, 
+des de/Hns. 
+
+Les recherches auxquelles on applique le calcul , 
+
+dépenfe d’eau néceffaire à la navigation moyenne ; 
+produit des fources , dédaûion faite de la perte d’eaa occa- 
+lionnée par l’évaporation & les filtrations que l’on «e peut 
+empecher 5 ' 
+
+la pente à donner aux rigoles qui conduiront l’eau dans le point 
+e partage , aEn quelles aient une vîte/Te proportionnée à 
+leur diitance de ce point ; 
+
+les dimenfions à donner aux fas, aux éclufes & à leurs différentes 
+parties conftituantes j 
+
+a &âtioa du nombre ac de la chute des éclufes. 
+
+
+qui font 
+
+
+
+
+
+7 . 
+
+ludépendâmment des canaux de navlgarlon , d y 
+a encore deux autres erpecesde canaux c]uc Ion nomme 
+
+( ri’irri<Tari€)n , 
+canraix | delVéchemenc. 
+
+’ Les canaux d’irrigation font, comme ceux de naviga- 
+tion, des efpèces de rivières faeftices, où Ion ademblo 
+toutes les eaux fupérieures qu’il eft polTiblc d y réunir , 
+au moyen de rigoles, condiiits, aqiicducs , &cc. 
+
+Ils demandcntqiielquesobfervations particulières , rela- 
+/ tivement à leur emplacement Sc à leurs alignemcns.^ 
+
+Un canal d’irrigation pourroit être difpofé de manière 
+à pouvoir fervir aulîi à la navigation , fi la nature s y 
+' prêtoit. ' / 
+
+Les canaux de defféchement exigent moins darc 
+dans leur tracé & leur exécution que les canaux précé- 
+dens ; cependant ils doivent être difpofes d une cer- 
+taine manière , par rapport aux terreiiis a dclïecher. 
+
+Ils nécefliccnt la coiiftruétion d’une éclufe quand ils dé- 
+bouchent à la mer ou dans une rivière que le reflux 
+
+fait gonfler. ^ ^ . 
+
+Tous les détails dont font fufceptlbles les opérations 
+qui entrent dans le projet des canaux <5c tous les ou- 
+vrages cpii en dépendent, feront donnés dans les leçons 
+du cour^. 
+
+La conflriidion de ces diflerens ouvrages demande 
+une recherche particulière dans l’exécurion , fur-toat les 
+éclufes , qui font perpétuellement eu butte â la puilfance 
+d’un ennemi contre lequel on ne peut qu’être fur la 
+défsiiflve,' 
+
+
+
+A R T. î V. 
+
+Raies & ports maritimes, 
+
+§• P R * M I 1 R. 
+
+Rade, 
+
+taaÏLt'côfer^?fe?vSll'e “ ^ dif- 
+
+attci^dant le moment où ils pourr^renTrer' 
+prochaxn ou bien d’où ils pTurroxu appaSll & 
+
+» la voxle pour gagner le^large. *«««« 
+
+^ y en a de trois espèces : 
+
+f.i!ï J: iî.'"!?'"*' ‘ i"- 
+
+Ou elle h’eft Termée qu’en partie. 
+
+Ou elle eft entièrement découverte. 
+
+*!«.» k 
+
+
+■* J maritimes. 
+
+
+par l'art, de telle manière 
+
+trouver en tout temps une retraite affûtée ^ ^ 
+
+II. peut être confidéré 
+
+
+Relative- r. 
+rnent à cef , 
+S^ireg^ardei'^ 
+
+
+iinarine nationale 
+commerce. 
+
+
+,) foie qu’on f dans l’Oce'au. 
+/i’«abliUe| dans la Méditerranée. 
+
+
+( 
+
+
+9 
+
+§. P R E M I 1 R. 
+
+
+Tort pour la marine nationale. 
+
+
+On doit appeler port national celui dont le chenal eft 
+affez profond pour permettre aux vailïeaux de ligne 
+d’entrer ôi fortir même a baflTe mer. 
+
+
+Ce port doit contenir des emplacemcns ou balTins 
+alTez vaftes pour retirer un grand nombre de vailleaux, 
+& renfermer dans fon fein tous les établilfemens propres 
+aux conftruÆlons navales, aux armemens 5c a ladmi- 
+niftration. 
+
+Galles. 
+
+Formes. 
+
+Chantiers. 
+
+Corderies.' 
+
+Forges. 
+
+Fonderies. 
+
+Magafins. 
+
+Hôpital. 
+
+Bureaux d’adminiflration. 
+
+
+Ces ëtabliilèmens 
+fe nomment 
+
+
+Après avoir fait fentir que la bonté d’un port dépend 
+principalement de fa polition , conlidérée par rapport 
+aux puiffances voifines & à la facilité de communiquer 
+dans l’intérieur des terres, 
+
+On'indiquera d’après quels principes doit erre dirigée 
+fon entrée, quelle hauteur d’eau lui eft necelïaire, com- 
+ment doivent être difpofés les ballins 5c avant-ports , 
+5c quelle figure doivent avoir les jetées , pour réunir le 
+plus d’avantages pdllibles. 
+
+Ces badins & avant- ports étant entourés de murs , de 
+quais , on appliquera à leur ccnftruâiioii les^ principes 
+éablis dans les articles précédens , en y ajoutant le 
+
+
+' ipI ta™ e 
+
+de digues avancées en ‘ï"' ^°nt des i>f ' 
+
+^entree du po„, “«r pour former Je cL 
+
+toujours être à grands vai/Teauv J • 
+
+grands baffins j V ’ °” , ponr ' “* ^otvent 
+
+«»fe. "s»!- oipLrjt'f' 
+
+On entrera d . 
+
+fois au il confeiJiera ces baf- 
+
+^ “ P'2..t iï""' 
+
+Tnd ' > Jorfque la nar...» . moyens dV 
+
+indépendamment de J’avo« P’^«te pas ^ 
+
+^fablies ces ^ après JefqueJç ^ • 
+
+retenue doivent êrre"^”^ ^ ceJ/eT^'k 
+
+§• 1 1. 
+
+« 
+
+^ûtrs de commerce. 
+
+
+mar ne nationale q.ie par la moindre étendue des divers 
+étabi .Kiniens qnon y fine; étendue au furplus oui-doit 
+erre croporrionnée au commerce donc i! eft fufceptible • 
+on peut conféquemment leur appliquer tout ce qui eft 
+dit dans la feiftion précédente. 
+
+
+
+ARCHITECTURE. 
+
+
+deuxième partie. 
+
+
+L 
+
+
+A fécondé partie du cours reVoItition.naire d’archi- 
+tc-dure fera divifee en douze leçons ; elle .aura lieu d 
+la fuite de )a première part e , dans la dernière quinzaine 
+du lecond mois; elle lera, l’abrégé du cours amniel ’ 
+Cette partie de cours fera divifée en deux. La première 
+dmfion comprendra une expofition générale de l’iiiftoire 
+de i arclutefnire ec de fes principes ; la fécondé en 
+|ra l application aux bâtimens , aux monumens , aux 
+
+F' Leçon. 
+
+i 
+
+'nrCll* forigine de l’architeaure & de ce 
+
+qu Jle fut chez les Egyptiens , de leurs villes, de leurs 
+canaux , de leurs pyramides , dre Dans cette leçon nous 
+promènerons nos regards fur la Grèce ; nous apnellerons 
+1 attention fur cette multitude de monumens qui ornoient 
+œ beau pays; nous verrons de quel tifage L peinturo 
+
+IWbir ^ TT édifices ;^„ous Fui vrons 
+
+1 aren teélure en Italie , & nous y obferverons fes proSè" 
+jufqu aux empereurs. "^icsprogie, 
+
+i I* Leçon, 
+
+J 
+
+Nous reprendrens, dans cette leçon, l’architeaure an 
+temps des empereurs ; nous préfenterons les plans de* 
+pnuetpaux monumens qui furent élevés fous leuV rèLe 
+^rchiHciure, Deuxième Parti$, D * 
+
+
+
+
+
+
+njr 
+
+
+
+
+
+1 
+
+cômaie les forum , les thermes , les palais j nous y 
+joindrons les defiins des arcs de triomphe, des cirques , des 
+ampnitnearres , <SuC. t-ai développant la férié de ces divers 
+oDpcts 5 11 nous fera ficile de faire appetcevoir la pente 
+qui enrranioit rarchîtedlrure vers fa décadence. Nous 
+vem;ns égaleme:ic le génie des arts fuyant Rome , 
+Jauger encore aux barb.ii'es qui bouleversèrent cette caoitale 
+du iiiondc , leur iaiiicr j, dis-je , dans les édufices in- 
+cendies ou ciilbiiies, des modèles cjue les premiers chrétiens 
+s eir]prel(è.:ent de fiuvre dans la âifpofinon des bafiliques 
+' cjiuls édifiètent pour leur culte. 
+
+Ces lyuniques , confcrLiites avec des fragmens des plu^ 
+beaux monumcns , nous offriront les détails les plus 
+précieux , contles deflins , mis fous les yeux des élèves, 
+ieryiroiir à leur donner une idée de l’ufage 5 c du bon 
+goût des ornemens dans rarchiteéLiire. 
+
+A pi CS av^oir jeie un coup-d ceiI rapide fur la révo- 
+laîioii qif éprouva i’architeclure lors ciu démembrement 
+de ic-mpire romain^, ^ après avoir donné lane idée de 
+qa;.iqueS”Uîis des bâtimens extraordinaires qui furent 
+élevés par les Goths orientaux & les Saxons , nous 
+fixerons un regard attentif fur les édifices qui furent 
+(élevés au temps des Médicis. Cette innombrable quantité 
+de bâtimews fe rapprochant de nos ufages , fera pour 
+nous une foiirce inépiiifable d’où nous tirerons la plupart 
+des exenqdes que nous préfenterons aux élèves. 
+
+IIP Le^oii, 
+
+Comme le cours de ffétéoroaiie préfentera des déve- 
+loppemens fufiiûms fur la confcruccion de fur l emp’oi 
+deî machines dans les travaux ptiblics , Sc que l’appii- 
+caîion en aura été faire dans la première partie du coursé 
+nous croyons devoir nous renfermer dans le cercle qui 
+iemble nous être tracé par le tableau de lorganifation 
+
+
+
+de locûle : nous ne ni{^ligei'ons cependant pas d’offrir 
+des rédexions générales liir la foliciiié clcs cdi.kcs , foit 
+par rapport aux dlflérentes matières qu on y emploie , 
+foit relativement à la manière de les employer , en dé- 
+taillant l’influence du climat , des éleir.cns , des 
+ciiflér.ens fols ôc autres coniulératiüns importantes. 
+
+Après avoir rappelé quelques-unes des fautes ( donc 
+les exemples feront pris dans les édifices que nous 
+avons fous les yeux ) , fautes caufecs par 1 oubli acs 
+principes qui doivent guider larchucéVe dans le racé 
+des plans, dans l’emploi des oinemens &: la décoration , 
+nous dirons quels font ces principes , ôc de quel u fa go 
+'la peinture la fculpture peuvent être dans les bâtimeiis 
+publics Sc particuliers. 
+
+
+I V. 
+
+
+Leçon. 
+
+i 
+
+
+Nous nous appliquerons, dans cette leçon , a déterminer 
+les trois diffère ns .genres d’archiredure qui fonq propres 
+a caradérifer les bâtimens , les monumens, les fêtes. 
+
+Les bâtimens, pcir leur dijinhuùori , feront fournis aux 
+befoins & aux localités ^par leur conflrudion ^ à la nature 
+des matériaux que le foi offrira ; enîiu , dans leur déco- 
+ration y a des ornemens qui_, par le choix qui en lera 
+fait 9 donneront une idée de la rnaembcence de la 
+nation , de fa morale & de fon 'génie. Ce dctnier poinr 
+fera le but vers lequel on fe dirigera dans la compoiïricn 
+des monumens publics , & qui plus pirticulièremen 
+
+encore fervira à nous guider dans le choix des objcî 
+qui orneront les fêtes publiques. 
+
+
+t 
+
+eT6 
+
+
+V® Leçon. 
+
+
+
+
+, caractère commun à ces 
+
+ceux genresd eaihces J flwoir , la grandeur dans la dif, 
+pofinon pnerrdc des plans, & même de celle de cha- 
+CLifie GÇ leurs parties. 
+
+^ ‘^r 'Ip^*'l"es traits , que! 
+
+* le caraârere particulier qu ii convient de donner 
+
+I . Aux batîmens confacrés à i éducation : nous fe- 
+rons voir comment, par le choix des objets qui peuvent 
+Etre appliques a leur décoration , l’on peut jugei^ à la 
+
+deftinds"^^"*“” ^ 
+
+i". Nous donnerons quelques développemens fur les 
+convenances particulières à cbferver dans chaque bîti- 
+ment que le gouvernement exige ; enfin nous ferons en- 
+trevoir ce que le génie peut ofer', lorfqu’ii n’eft pas 
+entrave par les pences coiifidérarions qui font la fuite 
+ü un mauvais gouvernement , dont lefFet eft touiours 
+de nuue a la gloire d une nation , & d’empêcher l’exé- 
+çütion des projets utiles. 
+
+
+VP Leçon. 
+
+é 
+
+Après avoir rappelé ce que nous avons dit, dans les 
+leçons précédentes, fur les batîmens publics, nous en- 
+trerons dans quelques détails fur le genre d’arcliiuxlure 
+édifices que les éledions & klégiflation né- 
+1 analogie qui doit exifter 
+pnncipe , que tout ce qui fert 
+les carac^erifer , coït rappeler la foiiveraineté du peuple- 
+ennn nous dirons quelle eft la forme qui femble coiv 
+venir çl?ivantage à ces édifices. 
+
+VI P Leccn. 
+
+hous nom occuperons , dans cçtce leçon , des bâtir 
+
+
+
+\ 
+
+
+
+mens pour l’adminiftration , tels que les maifons com- 
+munes^ & de département, les commifllons adminiftra- 
+tives , le ttéfor public, les maifons des ,* J";-" 
+
+Nous entrerons , autant qu’il nous fera polfible , dans . 
+détails qui peuvent fervir à donner une )ulle idee «e 
+CSS fortes de.bâtimens, & nous appellerons Intention 
+fur le danger de fe fixer à ces étabhdemeus informes 
+dans lefqucls on multiplie les dépenfes fans que c 
+vice public en tiie un avantage réel. 
+
+VIII* Leçon, 
+
+Nous terminerons dans cette leçon ce que nous avons 
+i dite fut les bâcimens publics. £n parlant des tr.bu- 
+naiix , nous nous occuperons des différences a etao it 
+entre eux , en les coniidéranc lotis les rapports e a 
+juftice civile, de la juftice de paix, de la cti- 
+
+minelle. Nous indiquerons les moyens durerens qui 
+doivent garantir la furveülaiire & la lurete dans ces 
+fortes d’édifices, & quel eft -le cacaaèrc qui _ lent elt 
+propre. Nous tâcherons de faire oublier ce préjugé bar- 
+bare qui avoit fait d’une maifon d’-ircêt un heu de 
+fuDpiice , où tout confpiroit contre la vi* de celui que 
+l'es lois y conduifoicnr.‘ Enfin nous indiquerons les . inc- 
+fûtes à prendre pour concilier laifance^iS: la îauibiite , 
+avec rexécution des lois ôc. la'’;^ fiirece publique, 
+
+I Leçon. 
+
+Dans cetre leçon, nous établirons les dînerences qu il 
+convient ü’obferver entre les bâciinens publics ôc les 
+baiimens particuliers , foie dans la conftruéciori relrcti- 
+vement à f économie , foin dans îa dikrlbucion eu égard 
+aux dîfférens befoins , foit en Su dans la décoration 
+
+
+jMpus donnerons une idée des 'divers genres d. 
+
+
+iiabi- 
+
+
+s 
+
+
+à !•-! coiiftruaion cieWlff I ' calîns ciT- 
+“ J™..» q.» le, ee.iroL™ ,;. ? 
+
+Ktj.n.wm notre attïiition • pl«pMt , exci- 
+
+&nou. dirons quel; s" 
+
+connus fous le nom de l-A\ 
+cas enfin ri convient de les id^èr”^ " ’ 
+
+
+X® Le coru 
+
+
+donM'°"' ^ =”■« 
+
+cenribîe. cVil X 1 ^ ‘-^rchiteanre rur.Js e<l fnf 
+
+‘‘ pi.» «iniirsirr ‘i''"’ » 
+
+fcqiierir une crace nouvelle* ïn f T “ & 
+
+»'"■« ne dédaipnero-it na. ^ ,*“^P‘Ctre & Ja pein- 
+raies ; je fi!s d-i cdtiva-’u- habitations ru- 
+
+«ailon patetaelie le ^m; 
+
+ICjour des villes ! iî ' * beaux arts ; 
+
+P p,rj,. il c;ti.rr,td”“”. I 
+
+P int à ronaîr IN " ^^^^nip.orres , ü 
+acts, dont la coniîoiffdnce esLT^° «bfolue des beaux 
+
+X I*. Lecon^ 
+
+te. (..r le, „"ej i: | ^«.>11, plu, |J,iu„. 
+
+font dune unüté relative, 
+
+W nailFance à des circonftaPc«s nC'- ^ ® 
+
+— i-es autres, tels ,ue^^ “ -P- 
+
+
+les foncahes, &c. , font cl'ime utilité pof.tîve , cVft-1- 
+dir/ que leur enfcmble & leurs 
+
+une utilité géncrnlenunt teconnne, ^ ‘ 
+
+fluence qu’ils peuvent nvoit (ut la mora - 1' j 
+
+Les premiers ne doivent être fournis quaux Icules 
+rè4s du bon goût, les autres doivent toujours avoir 
+
+pïï brfe l-ucilil pubUs"« 1 
+
+naiffance. , , , 
+
+X I (“ Leçon. 
+
+Dans cette l.çon nous offrirons quelques deferiptions 
+
+des fêtes anticiues Sc des fêtes modernes ; & ce que nous 
+en dirons, fera je crois le meilleur programme que le 
+palis puiffe offrir ' à l’avenir. Nous y joindrons quelques 
+^lur les clmts , les candélabres , les autels & les 
+Li-es ornemens que l’on emploie dans 
+one fut les relîôurces momentanées, par lefquelles 
+
+fe procurer des amphithéâtres ou autres lieux de 
+-réunion , dans des circoiraances inattendues. 
+
+
+
+
+
+Leçon, 
+
+
+XÎi xPOSiTioM^c Tobicc de la fortification , des moyens 
+qifclle emploie , & de Ion utilité. 
+
+Ubfervanons létales fur Ictude de cet art, où l’on 
+traitera des entraves qui jafqu a pré (en c ont nul à fes 
+progrès , de l^at auquel il eft parvenu , 6: de la meilleure 
+route à fiiivre pour le cultiver avec fuccès. 
+
+Enumération des connoKlancc» prcliiTiinaires qui ’oi- 
+vent précéder Tetude de la (ocrihc ition^ êxcmples qui 
+en démontrent TuCage ôc les applications. 
+
+Expofé des rapports intiities qui exiftent entre la forti- 
+fication ôc les autres parties de l’art de la guerre , d’où 
+l’on conclut la iiéceflu'é de préfenrer d’abord i’cnfeiuble 
+des principales opétations militaires. 
+
+I P Leçon. 
+
+i 
+
+Objet de l’art de la guerre , notions hiftoriques fur 
+cet are, apperçu rapide des movens quoa emploie 
+adtiellement en hommes , ckevanx , arrnes , apptovi- 
+fionnetncfii de guerre Sc de bouche , & de l’or- 
+gaaifation de tous ces moyens. 
+
+IIP Leçon. 
+
+* 
+
+Dlfpofirion des moyens Sc plans généraux de campagne^ 
+fuivant les projets ir^fenfîfs ou défend s du gouv< rnement , 
+la force & les moyens de l’ miiemi, les reffources en 
+tout genre que le pays peut fouruir > la nature des coxn- 
+
+E 
+
+
+
+
+f O : 
+
+manications ,le';po(icfons aiiîûaires natureî'es, ou arrficiel 
+les c, s , cnucr .s comprennent toute efpècc d’ouvrages de 
+f « (1. at .n- foit permanente , foit paüagère ) - enfin 
+fu vn„t le plus ou .noms de facdicé de perteâ.jnner les 
+pouuons naCüieJles par des ouvrages de campagne. 
+
+
+I V" Leçon, 
+
+i I 
+
+renfer re tout ce qui, efl relatif à l’ac- 
+, .attaques & défenfes de tout 
+doivent être confidérées dans les 
+U.. , ....tances qui peuvent fe préfenter : comme 
+-uion pat lappott l’ennemi , l’objet que l’on a en 
+
+^ ^ genre de troupes, 
+
+ia.mn &c ; les attaques & défend comprennenries 
+ajdtos generales & particulières, ainfi que les^.ége " 'u 
+
+
+Principes 
+
+
+generaux 
+
+
+fur l’art de la guerre, qui font le 
+
+
+réf..ltat de cl qu’on vient d’expifer rr"c« a"; 
+
+
+V'o VP & Aqi= Leçons. 
+
+
+Expo.fition des moyens employés pour fortifier attaouer 
+& de/endre une place de guerre, i^l’époquë dl’k S du 
+fiix'feptieme fiecle , abftradion faira aIvL..u: 
+
+
+f ^ ■' guerre, a lepoqiie de la fin dn 
+
+. VHP Leçon. 
+
+
+Defeription & ufage des mines & des contre-mines, 
+1^' Leçon, 
+
+
+avoir fart concevoir, dans les leçons précédentes, 
+unies dans 1 attaque & la défenfe, on fera 
+dans celle-ci , d une manière précife les effets 
+es armes adluelles, pour déterminer la valeur de ces 
+moyens; & Ion conclaera de tout cela quelques ptin- 
+
+
+. ( O . 
+
+cipes géniaux qui fei'viront de guide pour la fuite de 
+rinftrudtion. 
+
+■‘î ' X® Leçon. 
+
+Cette leçon &lcs cinq fuivantes renferment lapplic’- 
+tion des principes précédens à la fortification d’une 
+pofition , ainfi qu’a Vattaque &: a la défenfe. 
+
+Examen des différens fyficmes bafiionnés , tant pour 
+le trace que pour le relief des ouvrages ficués en plaine. 
+
+1 XP Leçon. 
+
+Defeription raifonnée de la médiode de Vaiiban , per- 
+I fectionnée, ainfi que des cafemates & des eontre-inincs 
+qui lui font applicables. 
+
+XIP Leçon. 
+
+» > 
+
+Examen du fite ; ce qui conduit à traiter du défile- 
+ment & de la fortification irrégulière. 
+
+D 
+
+XÏIP Leçon. 
+
+Suite de la fortification irrégulière , appliquée, parti- 
+culièrement aufyftême de Vauban , perfedionné. 
+
+XIV® Leçon. 
+
+Du parti qu’on peut tirer des -eaux pour la défenfe 
+dès places. 
+
+XV^ Leçon. 
+
+Ouvrages détachés 6c permanens en ufage au-delà 
+des dehors. Camps retranchés qui protègent une place :> 
+& en reçoivent proceefion. 
+
+XVP Leçon. ' 
+
+I Examendes fyftèmes non baftionnés -, expofé de leurs 
+! avantages & de leurs inconvéniens. 
+
+
+
+( 4 ) 
+
+XVIP Leçon. 
+
+Réfuiiîé des principes les plus elTentîelt J c • 
+connus qinl eft inrérclTarit de faits 
+
+dans la fortification ractaque 
+
+abfttaclion faite de tout fyftême. ^ ^’'*‘^** • 
+
+XVIIP 
+
+£ JS. ^ 
+
+XIX*” L,econ* 
+
+perman™’ ^ b«imens 
+
+XX^ Leçon. 
+
+i 
+
+IndrLKftion fur les mnv^nc a* ' • 
+
+enconftrudioride touteefpèce. ^les ouvrages 
+
+XXI & XXII* 
+
+Fortification «le «mpagne. Caftramétation. 
+
+XXIII* Leçon. 
+
+CTonfidérations fur Ip 
+
+degré de force qall convient de d’ ‘ le 
+
+Vautres ouvrages permanens oui aux places forces 
+
+frontière de terrel ^ P^rvent a la défenfe d’une 
+
+XXIV* Leçon, 
+
+Confidérations analogues Donr ^ A’c ’ c , 
+
+tieres maritimes & des i fies ^Détails ^on- . 
+
+propriés à la défenfe des côtes “P' 
+
+
+.■4 
+
+
+
+
+
+I>- s les quatre premières leçons , on çxpofera les 
+principes théoriques de Tare. 
+
+Leçon, 
+
+i 
+
+Ou parlera de la peinture en général ; on la définira ^ 
+dans fes rapports fenfibles , l'an £ imiter les objets vifi- 
+blés ^ par des formes &des couleurs. Dans fa définition plus 
+relevée, elle fera aufli l’art de faire naître des penfées 
+par des fenfations ^ d’agir fur l’ame par l’organe de la 
+vue. C’eft par U qu’elle prend de l’importance , qu’elle 
+N,rivalife avec la poéfie \ qu’elle peut, comme elle, éclairer 
+les efprits , échauffer les cœurs , exciter & nourrir 
+des fentimens élevés. On fera fentir'les fecours quelle 
+: peut prêter à la morale & au gouvernement* comment 
+elle fera , dans la main du légillatcur habile , un moyen 
+I puifTant pour infpirer l’horreur de l’efclavage , l’amour 
+de la patrie, & pour conduire les hommes à la vertu., 
+
+IP Leçon, 
+
+i , ■ ' • ^ 
+
+On comparera les arts entt’eux | on indiquera com- 
+ment ayant tous un but femblable , ils y tendent par des 
+moyens différens \ On appréciera ces différences. C’eft pour 
+les avoir méconnues que les artiftes ont été entraînés dans 
+de fréquentes erreurs. Cette comparaifon utile les prémii- 
+I nira ©outre ces erreurs. Ils s’en garantiront en connoiffant 
+j mieux ce qui eft du refforc de chaque art, ce qui conftitue 
+I fon domaine, les pqints par où ils touchent , ceux par où 
+1 ils .diffèrent. 
+
+
+
+I®. Leçon, 
+
+eonnoî re les règles dp U 
+
+‘^^nire étain im"’ livre 
+
+de la création en font les ciraflAr/ f’ ’ “ ^es objets 
+
+connoîfte tous, pour ne me I les 
+
+-dre fufceptiWrdrpLî ^ Po«r les 
+
+fees qu’il veut faire ninre- nn f f & les pen- 
+ales , fur ce-pri^ci ÏÏv’ic e"„f - 
+
+de ces caradètes, tous ce iV al; ‘’^’mploi 
+
+prelîion y niiifent. Par des déve'o ^ «rverit pas à l’tx- 
+de rendre fen ’ °» 
+
+peinture. , * Partie meuphylique de 
+
+I V*. Zcco„. , 
+
+On recherchera les 'règles de lo /- ■ 
+
+rapports de convenances ifidoituÏ 
+
+du coftume , des ufages , fotis^celufcV 
+delTin, aux attitudes, au coloris, aux efPetsd’ T'*”- 
+L^s rrolc I ' /• r «rets des lumières. 
+
+la pratique de Partr^”^^* <^o®preBdront i'expofition 
+
+'V' Zeco„. 
+
+ÿur perfedtion; on dira comment elts f ’ 
+
+dans tous les objets de la natnr^ d‘ , . 
+
+t]ui n a c]u une manière d’êcre Sc dp f 
+
+donne à toutes les a ttester T "" ''K- ^ 
+
+'-•• ----- '«■r.phyhonomie particulière, ^ 
+
+-rec prudence I 
+t on hafardera de fixer fes récrie, i 
+
+P«r«c de l’inftruâion bien ïl- ^ 
+
+
+
+3 
+
+veloppée fera connaître au (lituajre la rourc qu’il doij 
+fuivre pour arriver à la peifedion de fon art. 
+
+V P .Leçon. 
+
+Après avoir parlé des formes , on parlera des couleurs; 
+Il y eu trois, appelées Par leur combinaifoii , 
+par leur clarté plus ou moins grande, elles dérerminenc, 
+avec la forme extérieure , l’apparence de tous les corps, 
+& produifent poür rhomme le geore d’inftruélion , les 
+textes de réflexion qui arrivent a fa penfée par l’organe 
+' de la vue. J1 conviendra ici de dire un mot de la perf- 
+peélive linéaire, qui fe calcule mathématiquement, & de 
+la perfpê^élive aérienne qui ne peut l’èire que par le fen- 
+- liment. En comparant ces deux fcieiices , dont Tune eft 
+fenfible , l’antre idéale, la marche méthodique de l’iiue 
+aidera, à pénétrer les myftèr,es de lautre! On fuivra leurs 
+analogies : par des rapprochemens (impies , par des exem- 
+ples clairs, on tâchera de loulever le voile dont s’enve- 
+loppe cette partie myftérieufe de l’arc , qui eft proprement 
+la fcience du peintre. 
+
+, i - 
+
+.VI P. Ucon. 
+
+\ i - . 
+
+On parlera de la pratique des arts qui ont le deflin 
+pour bafe , telles que la peinture , la fcalpcure , l’archi- 
+réélu re , la gravure. L.eurs moyens pratiiues ferviront a 
+I la'perfedion d’une multitude d’arts fubaîternes , que le 
+i dellin dirige , qui alimentent le commerce , font fleurir 
+j le', maniifaélures , ôc tous les objets de luxe ôc d’in- 
+i düftrie. ‘ • \ 
+
+I V I I Leçon. 
+
+On fera connoître fommairement les artlftes les plus 
+habiles de tous les âges ôc de tous les pays , en les dé- 
+
+
+
+les plus beaux ouvra''es des 0‘> indiquera 
+
+eionr i’iriftoire feule"“ous Ver, f " - «ux 
+
+ceux dont les chef- d’œuvres ex\^a^ ** louvemr, què 
+& dans lès beaux cabine'rs de VP^ «"^ore en Italie 
+«lê« des fecours qu'oTenr ll T’ 
+carnet des eftampes, &c ' national ^ Je 
+
+r» " i !■ P»» hia„i,„ J. 
+
+^ Zeçon, ‘ 
+
+tionnaire , fera* la^réc le cours révolu- 
+
+•JP_^ y avoir difeouru Err^Tl ’ï"'' 
+
+Y^ions, on réfum-ra tour?’ & leurs pro- 
+
+l’enfeœbie d ; idS^en T /T 
+
+fixer dans l’eforir df.c tableau , Sc U. 
+
+®ours d crudes-pratiqueV'^*^^'"^^ “ commencer leur 
+
+
+
+
+
+PHYSIQUE GÉNÉRALE.. 
+
+
+liA phyfiq^je eft la fcience qui a pour objet la rc- 
+tlicTchc des ptoptiétés de tous les corps de la iiatnre. 
+
+parmi ces propriétés ? U y a un rrcs-petlc nombre 
+qui conviennent à tous, les corps, ôc qui les afledient 
+tous de la meme manière j ces propiiérés que ) on 
+doit regarder comme générales 6c invariables , font : < 
+L etendue , 
+
+L’impénérr^îbilké , 
+
+La mobilité. 
+
+L’inertie , ' . 
+
+& la gravité. '' 
+
+L’étendue eft la feule propriété qui foit commune 
+èc aux corps 6c à l’cfpace qui les renferme. 
+
+La recherche des rapports qu’ont entr’elles les di- 
+menftons des corps fiiivanc la manière dont leur éten- 
+due eft terminée , ôc fuivanc les lois auxquelles peut être 
+airujétie la pofitlon de tous les points de leurs fur- 
+faces , fftlr lobjet de la géométrie , & une partie de 
+celui de l’analyfe mais , indépendamment des rapports 
+. de dimenfions des corps, l’étendue donne lieu à un 
+très-giand nombre de phénomènes qui font l’objet des 
+recherches de la phyfique proprement dite. 
+
+Les quatre autres propriétés ^ chacune en particulier , 
+caraétérjfent les corps Sc les diftinguent de l’efpace. 
+Comme- les lois en font ftmples k invariables , leurs 
+elfets ^ dans des circonftances déterminées , font d'e 
+nature à être prévues & mefurées au moyen des Re- 
+cours delà géométrie êc de l’analyTe, la détermina- 
+tion de ces effets eft l’objet de la mécanique qui eft: 
+' enfeignée d’une manière particalière à l’école. Mais la phy- 
+sique doit démontrer l’exiftence de ces propriétés , elle 
+
+G 
+
+
+les lois qui les récrifTent ^ A' 
+noitre tous ies n'îéno^A-„. ” « faire con- 
+
+lient exiftence & n,',;’ a /“f '^®\P'^opriétéî don- 
+
+fournis à ranalyfe. ' ” compliqués pour être 
+
+de générales dont ds ercoré 
+«1ère différen'-e & varilhl ^ 
+
+^ofué, l’é!ar„cité, les affinhés.l" P"' 
+
+- fô™r„râ,‘;trî*"“"- *»«" 
+
+^es gas, Sc d-ms char liquides, ou 
+
+•de. proprife rSératr""-,^® "“i ’ ^s’ ont 
+
+particulière (Sc^p-^ffaeère^r * * ?" doivent qu’a la forme 
+
+Piumi les cofpTf Je/T 
+
+exercent uns aûion parr-Vor''?'^'?' P"'”^ «ombre qui 
+
+font le calorique &- la hî aqtres j tels 
+
+tncité & ratmorShèi-f- nn' J ' ce ipo^bre font 1 elec.- 
+
+mènes de la méréoroiom' ""'^“ce aux phéno- 
+
+& du fon. '^oroiogie , de 1 hygrométrie des vencs 
+
+les diftinguent encL^es^ tl* propriétés particulières qui 
+
+la ^hyfiqj T'^Sv?- la divilîon de" 
+
+ticulière ou chymfef^^^^ ê^'^eraU ôc en pliyllque par- 
+
+La phylique générale a deux ob-ets : , 
+
+don "jmiiSrt Ïu!'le?îoS® 
+
+qui^ exercent i'aaiot'fïmts irautï “'P' ' 
+
+^lles feront diales irPofo;: ^ 
+
+r’- Pe l’étendS, ^ •• 
+
+
+5 • 
+
+6 \ 
+
+7 " 
+
+
+le de la réfiftance 
+
+
+î 
+
+De Fimpénétrabilité. 
+
+De la mobilité & de rincrtle. 
+
+De la gravité & de la pefanteur. 
+
+'De la porofité. 
+
+De l’élafticité. 
+
+Des affinités. 
+
+8°. De la folldité. 
+
+9®. De la liquidité » de l’équilibre 
+des liquides. 
+
+I O®. Des tiibcs capillaires & de la gazéué ou fiuldité 
+aériforme. 
+
+1^0* I De la chaleur. 
+
+13®. De la lumière. 
+
+14° l _ 
+
+15®./ parité de régime. 
+
+1 6®. I De la météorologie , de l’hygrométrie > de la 
+17°. / théorie des vents. 
+
+18®. Du fon. 
+
+
+De l’élsdricité , &de l’aimant à eaufe de la 
+
+
+Comme cet enfeignement général eft deftiné à des 
+élèves qui pourront par la fuite eœbrafïer des profef- 
+fions très- variées , on décrira dans chaque leçon un ou 
+plufîeurs des arts dont la pratique eft fondée principale- 
+ment fur les objets traités dans cette leçon , afin de pré- 
+fenter aux élèves une plus grande latitude de connoif- 
+fances , êc former en même-temps leur goût. 
+
+
+
+- :■ J. 
+
+
+
+
+r!Op3,; i-, : :-j - .,-'_it‘ ~ , 
+
+
+-■V; ; v,’ 'V . 
+
+*^.i‘w;i -„1 ff;:.7 ’;- ;î.: — 
+
+.7-'-' ■''^ ivni î^irr: 
+
+
+t>fnr->l ii;;- 
+
+
+■j=zz:r: 
+
+
+CHIMIE. 
+
+
+PREMIÈRE PARTIE. 
+
+. Des fubflanccs f aimes, 
+
+. i 
+
+' , P® Leçon, 
+
+I , . : 
+
+Définition ^ avantages de la phyficjue parnculièrc 
+ou de la chimie , moyens qu elle emploie , but qu’elle 
+fe propofe. Coup — d oeil fur les révolutions qu elle a 
+éprouvées & fur fon état aétuel. Néceflicé de la lier à 
+toutes les autres connoifTances exaéles , pour connoître Sc 
+perfedionner les arts. 
+
+II® & III® Leçons, 
+
+a 
+
+AfEnités^ chimiques : on ne peut é.udier la chimie 
+fans connoîrre les affinités par lefquelles tous les corps 
+tendent à s’unir; phénomènes généraux & conftans ou 
+lois de l’affinité chimique. Rappprrs qui ex*ftent entre 
+la force d’affinité &: l’attradion. Différences de ces deux 
+forces. Application des lois des affinités à l’exercice des 
+arts. ' - 
+
+• I V® Lecori, 
+
+Méthodes diverfes d’étudier la chimie, comparaifon de 
+ces méthodes, choix de celle qui partage les corps en 
+quatre grandes claffes. 
+
+Chimie, Première Farde, H 
+
+
+J 
+
+
+
+^ ! 
+Frcmièrc clajfe. Corps généralement répandus, &t\ 
+
+foyers Ge touies les compofîtions ôc clécompoficions. 
+Lumière , calorique , air , eau fc lerces. I 
+
+Seconde clajfe. Corps füfliies ou minéraux, ! 
+
+e clûjfe. Corps organifés illoco-moblles & in- ^ 
+* Fégétaux, 
+
+Quurdme daffe, Côrps organifas k>co- mobiles ^ 
+feniibles. Animaux, 
+
+Lumière: fon origine^ fen influence fur les corps 
+'naturels , a leur furfece , dans leur intérieur , dans leur 
+compoflnon ] colorant les corps brûlés , les ramenant a: 
+1 érac de corps combuilibles j favorifant la végétation , 
+‘animaiiiaLÎoii j fe dégageant dans les analyfes. 
+
+Calorique : fa nature , fes monvertieris , fa tejndancé 
+à l’équilibre ; fon, aécion fur i’étar des corps , loii in- 
+fluence dans la décompofltion , fon palTage d’un corps daiis ' 
+un autre , fes attrapions ; capacité pour le calorique J 
+Calorique fpécifique. ' ; 
+
+
+Lee 
+
+
+on. 
+
+
+Air furmanc raîmofphère. Expofé rapide de fes prln- 
+cipnles propriétés générales. Son influencé' dâris lés opé- 
+rations chimiques : grande différence de la chiihie mo^ 
+derne^ provenant de cette influence exactement appréciée.^ 
+
+NâCiire de Lur , fon adtion d.^ns la combijffion. CçHîprl 
+xîi rapide- fur les- corps combuflibles de leurs -di^feiirT^ 
+l'hénoinèîies Ôc rhé-one de la combufdon • inren^tjî 
+miiltipiiciré de la combufliou dans la nature. 1 oiisj 
+euvent être divifés en comb iflibles & incom-i 
+?s belles connôiflances^ devenues; 
+particulière, avec tous 
+
+
+
+3 
+
+'VI' LcfOn. 
+
+F'x.'mcn général des propriércs de Kan dan‘- f s t. .>is 
+érar., folide , liquide, gazenfe. Eau amiofpl.et.qne, 
+tareftte; hiftoire natui.lle de l’eau, aûion générale de 
+l’eau fut tous les corps de la nature. Analyfe ou (te.om- 
+r.ofition dte l’eau par les corps combuibbles ; recompe- 
+lition de l’eau, rôle quelle joue dans l’un ou 1 autre 
+de ces phénomènes ; application des oinnotllm es at- 
+quifei fur la nature & les propriétés de l’eau aux opeia- 
+lions des arts. 
+
+V I P Leçon. 
+
+Des terres. Vues des pbyficiens fur ces corps ; idées 
+abfi-raites , adoptées avant les nouvelles découvertes ^ 
+reâifiées depuis. Cinq efpèces de terre, ul.ee, a.uii...u. , 
+baryte, magnéne , chaux ; examinées dans leur rta: ne 
+putLét propriétés de chacune d’elles.- Leur .lamve m- 
+décompofée ; qiieKp.ics idées fur leur compofition pic- 
+lumée -, leurs ufages chimiques. 
+
+V I I P Leçon. 
+
+Alkalls , trois e.fpèces : potafTe, (bade , cirr.mcnuc j 
+p.opi'i-étés chimiques de ees fels fuppoies purs. — i^eurs 
+
+Acidification : phénomène très- important Sc 
+tiplié dans k nature; rapport de ce phénomène dvec 
+k coujbüftion. Ckfiificatioii des acules. ib ixciaes a iv.ies 
+ou radicaux fimples; acides minéraux \ a®, aciues^ a c.ues 
+■ ou radicaux binaires ; végétaux y '- a ra- 
+
+dicaux ternaires ; acides aramaux. Lenomorumenj. 
+acides de chaque clafie , méthode p^ncraïc ne c- 
+
+d’examiner les acides; leur état diderenc , ^eui pvkiiie.ir, 
+
+I l '2 
+
+
+J 
+
+
+'it'f ra'f 1’",'’ 
+
+n>i.. ,ui dc„,./deî ...ïï'i “ ■'' '■ 
+
+I X® Leçon, 
+
+^ éut't pSrêur ! fa^fL^ur” fa 
+
+& nouvelle, fa formation oai-’l P'''P®'*“on ancienna 
+•->aio„ de la lumière jr.r «Ju foufre: 
+
+ibr et acide r ’ àe l’air & de l’eà 
+
+formation des fnlfares terreux !îi i r ’ 
+
+linon par les corps coi-nKMn- ki ^ ; fa décompo- 
+
+propriétés de l’aade fuF rfiix 
+•’^edes fulfariques & fulfnr'eux dan^ ifs'artr' 
+
+X' & XI' leçons. 
+dïmm^'d & 
+
+^ X I P Leçon. 
+
+» -id„ 
+
+bultibfa ,„’it atmma. L'i ,",/!,!'” T’'' “"l 
+
+dilrs/fir' " '”“'"0' “ïi-t 
+
+il.» les i„,. ■ ■■ ■ ■ f"i>"i»«! & Icufj uf„„ 
+
+
+
+
+XIII* X I V* Levons, 
+
+Comblnaifons de Tacidc nitrique avec les terres les 
+alkalis. j^sicrates d’alamine , de baryte, de magnelie , de 
+chaux , ' de potaffe, de foude & d ammoniac. Leurs 
+proprieti:s ôc leurs ufages. bxploitation des terres falpè- 
+trées , art du faîpêtrier , nitnères artificielles , propriété 
+brûlante & inflammante des nitrates , leur converfion en 
+nitrites. 
+
+X V® Leçon, 
+
+i 
+
+^cide muriatique : fes propriétés, fa nature inconnue, 
+fa formation encore ignarée. Aétion de la lumière, du 
+calorique , de l’air & de ieau fur cet acide. Gaz, acide 
+muriatique ; décompofition d’un grand nombre d’acides 
+par 1 acide muriatique. Foimation de l’acide muriatique 
+OîCygéné. Nature & propriétés de ce dernier. Découvertes 
+importantes , faites depuis quelques années fur l’acide 
+muriatique oxygéné • utile^ application de fa propriété dé- 
+colorante. 
+
+
+XVP & XV IP Leçons, / 
+
+.> 
+
+Combinaifons de l’acide munatique avec les terres 
+les alkalis. Mariâtes d’alumine, de baryte ^ de maguéfie, 
+de chaux, de potafTe, de foude $c d’ammoniac. Pré- 
+parations, propriétés &c ufag-s de ces fels. Eaux de la 
+mer, des fources & des foniaines Liées. Ait du faliuier. 
+Sel gemme. Fabrication du fei ammoniac. T^îarlatc;s 
+oxygénés. l'^remicrs citais iur le muriare oxygéné ue dj- 
+talle. \ 
+
+
+X Vî 
+
+
+T Te 
+
+
+Leçon, 
+
+i 
+
+
+Aciae caiOonique : for, exillence dans l’air, dam k- 
+
+
+
+
+
+
+O 
+
+cavitj fouterraines, dans les eaux; fa fixation dans les 
+
+Sma «o“<--hes dans le globe, 
+
+formation de 1 acide carbonique dans la nature & par 
+
+Difficile décompofition de cet acide. Phofphore ooé- 
+
+drs?elui‘^drf ^atbonates, & fur-tLt 
+
+racide .a h^ phyfiques fingulièrcs de 
+
+i acide caibpnique; fes propriétés chimiquesfEaux ga- 
+
+zeu.es ou aciaiiles naturelles. Ufage de^lacide caibo- 
+XIX' & XX' Leçons. 
+
+'l's^üi‘f^T avec les terres & 
+
+de chllx ’ «e i’aryte , de magnéfie , 
+
+n-r-, J ’ ^ ‘is fonde & d’ammoniac. Hiftoire 
+
+^ chaux, des 
+
+Ln..;:!; "'"-‘'^ces , des all^tres. Art du chau- 
+
+
+XXI' Leçon. 
+
+
+Acide pliofphorique ; fa nature , ù formation par la 
+
+: fa ’ 
+
+
+, . i-a iiaïuie , la format 
+
+combuftion du phofphore. Adide phofphoreux : la de- 
+
+Soluhorr/"' '^^co■■ps combuftiblà. Extradion du 
+a^c t & fes affinités; fa combinaifon 
+
+‘tm U A m & phofphiies na- 
+
+bn.ifpns dans la nature. Ufages qu’on peut en faire. 
+
+-A. I I® Leçon, 
+
+Acide fluonqtie ; fa n.ature inconnue , fes propriétés 
+remarquables. Son action fur la fiiiee & le verre. Nou- 
+velle gravure fir les pierres dures, les cryftaux fe les 
+V n-es. Ses combiuaif .ns avec les ttnes & les aikalis ; 
+
+Ijs üiages. _ ^ 
+
+
+/ 
+
+Acide boracique: fa nature inconnue, fes propriété», 
+fes combinaifons. Borax : fon-hiftoire naturelle , fes pro- 
+
+
+priétés & fes ufiges. Borate ^magnéfi-calcaite natif, ou 
+quartz cubique. ■ 
+
+
+XXIII* Leforf. 
+
+
+Acides métalliques, acides arfénicux 8c atfénique. Acide 
+tunftique. Acide molybdique. Leurs propriéœs generales^ 
+A' -leurs différences, des i acides précédens. Uxydes- me- 
+saliiques fe rapprochent des' ftei-ié'. " ' , / " ‘ 
+
+Acides à radicaux binaires , acides végétaux. 
+
+Cicrique. 
+
+Malique. 
+
+-Gallique. 
+
+Beuzoïque. 
+
+
+1®. Tout formés. 
+
+
+Acidulés , 
+
+
+Oxalique. 
+
+Tarcareiix. 
+
+
+. Acides formés 
+par le feu, 
+
+
+Pyro-tartareux. 
+
+Pyro-muqueux. 
+
+Tyro-ligneux. 
+
+Acéteux. 
+
+
+Acétique. 
+
+
+4®. Acides fermen- 
+tés , 
+
+Acides a radicaux ternaires. 
+
+Gaftrique. 
+Ladique. 
+Sâchoiadique. 
+Sébâcique. 
+Lirhique. 
+Formique. 
+
+
+Acides animaux , 
+
+
+Tous ces acides ne doivent être que comparés aux 
+précédens i leur hiftoire détaiUée appartient a celle des 
+
+
+
+de pouvoir îre^coîS Krdans^îes 
+
+. XXIV‘ U^on. 
+
+ports dj leurs propSs &^de tuTlæ' 
+ce qui refte i faire 
+
+pour rendre leurs propriétés p les felj, 
+
+arts. P Pactes encore plus uîüej 
+
+
+
+SECONDE PARTIE 
+Des fubfcanccs végétales. 
+
+Tous les corps qui compofent notre planète peuvent 
+être divifés en deux ckffes : Corps organiques , & corps 
+
+inor^anîqués» • . ■ 
+
+Le» corps organiques & inorganiques ont des carac- 
+tères communs , qui font'; la pefanteur , l'élafticité , 
+
+l’impénétiabUité , &c. ^ 
+
+L etude de ces propriétés , communes a tous , & pro- 
+pres à la matière, conaitue principalement la f.yftqut 
+
+generale. ^ , 
+
+Les corps organiques ont eu meme temps des ca- 
+ractères propres qui font déduits , i®. de la forme , 
+iSt de la faculté de fe nourrir , de croître & de le 
+reproduite, j». des produits de leur analyfe. 
+
+■ Les fubftances organiques fe fuodiviient tnfubjlances 
+animales & fiibjlances végétales. 
+
+Ces fubftances fe rapprochent par les caraéteres luivans : 
+
+I Elles font douées » les unes & les autres , d un 
+principe d’irritabilité. 
+
+2®. Elles fe reproduifent par des organes & des moyens 
+qui préfentent plufteurs points d’analogie. 
+
+^9. La digeftion dans les unes & les autres fe fait dans 
+des organes particuliers , & ie produit varie dans chacun 
+d’eux. 
+
+
+
+
+
+
+_ 4'=- L’air, l'eau le carK^,,, ^ , 
+
+tntifs communs à mus. ' ’ principes nu- 
+
+En un mot, les véo-etanv i 
+cro.lTenc & pédlFent ; fe Sourr^J Vr"'"* ’ 
+
+d eux-memes; reçoivent Finllience dï 
+Lns que leurs fondions en fo enf^fT • If «Externes, 
+aances , &c. ® eflentieliement dépen- 
+
+Ces f^Jlancu diffèrent entre elles-. 
+
+>^eloppés 'da?s végétîquf J ^ <^é- 
+
+pour remplir dTverfo fonfli & ^ange de place 
+tance & fa reprodudion rand^ affiirent fa fubfif- 
+
+le végétal 1 ânimal que dans 
+
+Il c[h chflicile de tracer nn» i* 
+entre les êtres végétaux & animaux*^”^ ^« démarcation 
+
+Libftanœs P°“" le? | 
+
+r°. Vices deil’analvfe Dar //• F " , ; 
+
+' a". Vices d. r ^ t ^ ^ffdlation. 
+
+C-s r ‘ I P"" . f 
+
+^■-S Geiix procedpç nr:^ .4 * t i 
+
+que^ comme des moyens pr-nm ' confidérés ? 
+
+produits qu’eu extrait des féféZ^rZ Z ' 
+
+fa memode d’analy/é nue f f • P • b 
+
+je c, nudércrai Je végélj fou/Tux éîts 1* 1 
+
+
+
+? 
+
+I*. Dans fon état de vie ; 
+
+4 ®. Dans fon état de mort. , 
+
+PREMIERE PARTIE. 
+
+Du végétal vivant j de fes fonctions & de fes produits-. 
+
+1®. Idée fuccinéle de la flrudliire du végétal, pour mieux 
+connaître les rapports de fon orgaiiifation avec les prin- 
+cipes qu’on en extrait. 
+
+2®. Principes nutritifs du végétal , tels que le carbone ; 
+ce qui eft du à la terre , aux gai;^ , à la lumière , au calo- 
+rique y dans l'aéle de nutrition. 
+
+^Rapports de ces principes avec l’agriculture , & corol- 
+laires pratiques tant fur la théorie des engrais , des arro- 
+fages , &c. , que fur l’art de marner , de labourer , ôcc. 
+
+3®. Aétion ôc décompôfition des principes nutritifs 
+dans tous les organes du végétal ; altérations ôc change- 
+menf qu’ils éprouvent par l’aélion combinée des prin- 
+^cipes de l’organifation ôc des caufes phy/iques & ex- 
+ternes. ' 
+
+4®. Le muqueux ou mucilage paroît être la première 
+altération des fucs nutritifs dans le végétal. Les jeunes 
+plantes & les femences fe réfolvent prefque toutes en 
+mucilage. 
+
+Mélanges naturels du mucilage. 
+
+Caraôères du mucilage. • ' 
+
+Diverfes fortes de mucilage uûtées dans les arts, 
+
+Ufages & combinaifons de ces diverfes fortes. 
+
+50. Les huiles s offrent ehfuite à l’examen comme géné- 
+ralement répandHes dans le végétal. 
+
+/ Leur fixité les a fait divifer en huiles f.xcs de huiles 
+volatiles. 
+
+Cara^ères & propriétés *‘des huiles fixes. 
+
+I 2 
+
+
+V 
+
+
+4 
+
+
+
+Moyens de les extraire. 
+
+Propriétés , caraétères & méthode d'extra Ire 8 c de pu- 
+riiier ks huiles d olive, d amandes , deiln , de colza /de 
+navetre , écc .... 
+
+Theoiie de la raiicidiré des huiles , de lare de les rea* 
+dre Jicc^tives. 
+
+Combinaifon des huiles avec les alkalis, les acides, &c. • 
+[avons , art du favonnïcr, ^ 
+
+Moyens de faire des liqueurs favonneufes pour les 
+ufages domeftiques. / ^ 
+
+Principes conftituans des huiles vokriles ; 
+
+Leurs combinaifons naturelles dans les végétaux 5 
+
+Leur différence par rapport à la pefanreur , à la'con- 
+fiftance , d fodeur , d la faveur. 
+
+Procédés pour extraire les huiles volatiles : i®. par ex- 
+prejjion , a», par dijiillation. 
+
+Moyens de reconnoîrre I«s fophiftications quon fe 
+permet fur ces huiles. 
+
+Leurs cjmbinaifons avec Toxygène , les alkalis & les 
+acides. 
+
+Le camphre forme une appendice aux huiles , & nous 
+ferons conhoître les fubflances qui le fournifknt, la 
+maniéré de l’exrmire, de le purifier, &c. Nous indi- 
+fes ufages dans la médecine & les arts. 
+
+6®. l es réünes ont plulieiirs points de contad avec les 
+huiles , & leur hifbire doit fuivre immédiatement celle 
+de ces dernières. 
+
+Caiaderes generaux des Téfines. Leur divifion par rap- 
+port à leur pureté. ^ 
+
+létés particulières, 
+
+é pour extraire ék purifier toutes celles qui font 
+dans le commerce. 
+
+'faciles de fabriquer dans nos forêts le c^ou- 
+5 le brai fec & la térébenthine , nécedaîres dans nos 
+arfenaux dans ks ateliers des arts. 
+
+
+
+
+Les réfines rmies à un fcl acide -concret . formant /e, 
+
+baumes, . , , 
+
+Procédés pour les extraie, les anal) 1er. 
+
+u” J' 
+
+'TSSl. 8o,„m«-«r,„,s. »: f.o.ab P»' >“ 
+
+extraire. - 
+
+leurs combinaHons & leurs uiajcs. 
+iZaoutchouc forme une appendice aux refincs. 
+
+Hifloire naturelle de cetre fubilance. 
+
+Ses propriétés , fes caraéletes. 
+
+Procédés pour la dUroudre. 
+
+Moyens d’en tirer parti dans le« arts. 
+
+Théorie di l’art du vernifleur. ^ _ 
+
+, 0 . U feeuk ne patoît être qu'une légère alteration du 
+
+“cîlaères de la fécule & moyens de l’extraire. 
+
+Théorie & procédé de I art de L amidonnier.^ 
+
+Ufcge® économiques de la fécule , lic metho e 
+
+l’employer. , ^r ^ n a 
+
+8^ Le vHnclpe plutineux rapproche les fubftances ve- 
+.nak-s def Llbaanfes ammakd, C’ell fur-rout dans Us 
+plantes graminées qu’on trouve cette matière. 
+
+Procédé roor l’extraire. 
+
+Ses caraétères,, fes propriétés ^ 
+
+Analyfe de la farine de froment pai k moyen de 
+
+^ l’-ii-t de la boidangerie. 
+
+Lermcntation y c-c ^ j j * 
+
+9 '\ Le fucre eft encore un principe très- tepan ucan 
+
+végétaux.^^ 
+
+Ses caraélères. - 
+
+Mo-/en de l'extraire , de le punner, fes ^ 
+
+Décompofition du fucre pat la ttrmentation. 
+
+- Chimie , fécondé partie* ^5 
+
+
+
+Caraaères des acides végétaux. ’ 
+
+Uphiions fur la nature de ces a^idé^- /tr l i m- 
+ieur origine commune. “ ’ ^ probabilités 
+
+vésS" 'P«&r te di,e„ „ite 
+
+C.».bi,.aifo„, Je ca. .cite b.fa 
+
+ma^LÏ'‘^^ ' ^^rrait par le brûlement de quelques plantes 
+
+dans kRéplblifue!”^''' ^ pocalTe 
+
+3°. L’att d extraire, de porter & de fixer fn,- I 
+du conw'li: 
+
+Caules GUI out regardé ' j 
+
+MoreJé. le petfeal;„i;;P^°-"'-« 
+
+-Hrooab, lires fur la formation des couleurs. 
+
+'égénux?°*^*'^* les'principes colorans 
+pour les féparer, les diroudre. 
+
+rerhture. 
+conleurs. 
+
+ie fiquciette du vé- 
+
+
+
+
+^ Sa formation, fes caraftcrcs, fon inaltérablIiCv: prcf -üe 
+^abfokie. 
+
+' Moyens d’extraire les principes terreux Zc métalliques 
+yWoiicenus dans les végétaux. 
+
+Procédés connus pour s’oppofer à l’altcracion de déconi; 
+polîtion du tilTu ligneux. 
+
+Confequences pratiques fur rcmp’oi 6 : la confervation 
+des bois. 
+
+i4°- Les arts préparent encore pour leurs u/ages quel- 
+ques produi s végétaux qu’ils r. tirent tles plantes par 
+incijion on par r.xprejjlon^ re!s <jLïe la manne ^ r opium ^ 
+les fucs <f acacia . dhypocifie. 
+
+Procédés pour' extraire ces fucs. 
+
+Leurs câraélères , leurs ufages, leurs diverfes prépara- 
+tions ^ dcc, 
+
+150. Tout corps organique rejette par la tranfriration 
+tous les principes inutiles â fon accroillement (Sc à l’exer- 
+cice de fes fondions. 
+
+Le gaz oxygène- , l’eau de l’arome font les trois 
+fluides qui compofent , en générai , la rranrpiration du 
+végétal. 
+
+Caradères de ces -fluides, circonflances les plus favo- 
+rables à leur émiflîonj &c. 
+
+Moyens d’extraire l’arome. 
+
+Procédés pour le combiner ou le porter fur d’autres 
+bafes, telles que graiflès, poudres ^ eaux, c3cc. 
+
+SECONDE P A Pv T I E. 
+
+
+( Du végétal mort y & des altérations eu il éprouve. 
+
+Les mêmes principes qui entretiennent les fondions 
+du végétal pendant fa vie, tels que l’air, l’eau, U lu- 
+
+
+
+mière <Sr îe calorique , deviennent les premiers ageiis de 
+fa deflrucftion dès qu’il eft mort. 
+
+li n’eil donc quePeion , pour avoir une connoifiance 
+profonde de fes alrérarions, que detiidier FaeSbion limple 
+^ combinée de ces divers agens lur la plante, 
+
+Jiclïon du calorique fur le végétal. 
+
+Le caioriqiie feul appliqué au végétal fournit la difcll- 
+Idtïon CL La cornue Sc la carhonfation. 
+
+Anaiyfe des plantes à la cornue. 
+
+Nature des produits c|uelle préfente. 
+
+Imperfection de cette méthode. 
+
+Procédés utiles, pour convertir le bois en charbon, ^ 
+diiférences qui réfuUent de la variété des procédés quant 
+a l’économie & a la nature des charbons. 
+
+Qualités & caraélères des charbon?. 
+
+a®. ÂcliondcVeau &du calorique fur le végétal. 
+
+^ Lean 2c le calorique , appliqués au végétal , forment 
+Vinfufion.,la diécoBion &c les extraits. 
+
+Nature des produits qiFoii peut extraire par Tune ou* 
+1 autre de ces méthodes. 
+
+Application de ces procédés aux produits les plus con- 
+nus hc les plus utiles dans les arts. , 
+
+3 ®. Aclion de l’air & du calorique fur U végétal. 
+
+Ces deux agens prodiiifent la co-v2/;^ic/7. 
+
+Tlieone Sc produits de la combuftion. 
+
+A. Action de F air et de l’eau fur le végétaL 
+
+L rdternacive de fon application & immerlîon dans ces v 
+deux fl aides modifie la fermentation , & donne lieiK 
+a la réparation des fucs du végétal , fans altération de i 
+la libre. . ^ ’ 
+
+Théorie (Sc procédé .de la préparation de certaines 
+plantes pour la fabrication des toiles. 
+
+Procède uhté dans les papeteries. 
+
+5'^* Aclion de l’eau & de la terre furie végétal. 
+
+
+
+
+a 
+
+
+’ThiÇoriedeU . j i •// . 
+
+Prob'-bilité fnt 1 a formation du jayet Sc des houilles. 
+Hiftoire naturelle de ces produûions. 
+
+Leurs ufiges , leur préparation , leur analyle. 
+
+é°. Jefion de l’eau , de l’air & du calorique fur le 
+
+*’ U réunion de ces trois agens détermine la fermen- 
+.ration. 
+
+Conditions de la fe rmenfation. 
+
+Phénomènes qui accempagnent toute fermentation. 
+Moyens de la tacilitet 8c de l’accroxtre. 
+
+Les réfuitats de la fermentation varient en raifon de 
+la variété des principes : de là la fermentation fpin- 
+la fermentation acide , Sc la fermentation 
+
+
+tusrife 
+
+fermentation fpiritueufe eft le produit de 1» 
+
+décompolition des corps fucres. • «îr 
+
+Conditions néceffaites pour que cette fermentaaon ait 
+
+^^^Caufes & effets d’une bonne fermentation. _ • 
+
+Cau fes & effets d’une mauvaife fermentation , <X 
+moyens de la corriger dans tous les cas. , , . i . 
+
+Defeription des procédés ufités pont fabriquer le 
+taffia, le vin, le cidre, le pofé, Ubierre, Scc. 
+
+Analyfe de ces liqueurs fpiritueufes. 
+
+Diftillation desvms , eau-de-vie j,_alkool. ^ 
+
+Théorie & pratique fur la formation des cthers. 
+
+Principes & defeription des nouveaux procédés em- 
+ployés pour la diftillation de ces fubftancss. 
+
+Caraélères & analyfe du tartre , fes préparations & fes 
+ufages dans les arts. 
+
+B, La préfence du principe muqueutc^ & de Valkool 
+détermine la fermentation acide. 
+
+Conditions , caufes vices de cette fermentation. 
+
+
+
+P®" ou <tcide acé. 
+
+Propriétés de cet acide. 
+
+Ses combinaifons avec les aîîr^îlîc i.!. .. » 
+
+taux, l’oxygène; &c. ’ ^s terres, les mé- 
+
+Diftillation de cet acide. 
+
+Ses ufages dans les arts. 
+
+abo^'danr^o^u délavTrr)°“^® muqueux ne font pasrrès- 
+
+confîdétable , il 
+
+Conditions de cette fermentation. 
+
+Pbenomenes & réfultats de cette fermentatidn 
+Terreau , terre végétale , terre oehreufe , Sec: ‘ 
+
+
+
+
+
+
+CHIMIE. 
+
+SUITE DE LA SECONDE PARTIE. 
+
+
+Des matihres animales. 
+
+Leçon. 
+
+1°. De la nature des fubftances animales comparées 
+
+aux fubftances végétales. ^ . n • ^ 
+
+2®. De l’ammoniac j de fes parties- conltitu antes , 
+
+te de fa produétion. 
+
+Des favons ammoniacaux. 
+
+3°. De laétion des alkalis cauftiques. 
+
+Théorie de la caufticité. 
+
+
+I®. Du lait. 
+2°, De Toeuf. 
+
+
+1 P Leçon. 
+
+
+IIP Lc^on. 
+
+
+1®. Du fang. / 
+
+2®. De la ^Dile. 
+
+Des calculs biliaires. 
+
+I V® Leçon. 
+
+I®. Des graifles animales. 
+
+De l’huile animale diftiUée. 
+
+
+K 
+
+
+De l'acide féb aciqiîe. 
+
+1 °. Des parties molles des animaux. 
+De la gélatine. 
+
+De la colle animale. 
+
+De la putréfadion. 
+
+De la formation du gras des cadavres. 
+
+V® Leçon* 
+
+De l’urine. 
+
+2°. Du calcul. 
+
+De l’acide lithiqug. 
+
+
+poils, 
+
+
+Y P Leçon* 
+
+Des parties folides , cartilages, os 
+
+
+dents 
+
+
+. ^ De l’acide phofphorique , & des phofphates. - 
+
+3 . De Ja tranfpiracion & de la fneiir. 
+
+tifmaÏs."' afFedions rhuma- 
+
+
+Des larmes. 
+Du mucus. 
+De la falive. 
+
+
+V 1 1® Leçon, 
+
+
+'o • pruffique , & des pruffiates. 
+
+‘ "wge des ptufliates enreintutî. 
+
+3 . Des roiirmis. 
+
+De 1 acide formique. 
+
+Des vers d foie. 
+
+De l’acide bombique. 
+
+De la foie. 
+
+4 ®. De la cochenille. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+La chimie mlnéraie comprend , 1 *=*. l’hiftoîre nnruvclle 
+des minéraux dans leur pofuion de leur état aduel ; 
+2®. les opérations métallurgiques &: chimiques fur Us 
+minéraux ^ 3 ^* 1 application aux arts Sc a 1 econum'c y 
+
+des procédés de des ptoduits de ces opéiations. 
+
+L Ce qui tient particulièiemenc à l’hiftoire naturelle 
+
+embralTô : n o i r 
+
+1®. La contemplation du globe terreftre de dç Ion 
+
+otganifaiion en malle \ 
+
+2°. La claffificatîon méthodique des corps q'ii le com- 
+pofent 5 à la profondeur connue ; 
+
+3^. Leür manière d’être , pofition ou gifement ; 
+
+Les caraélères fenfibîes ou extérieurs auxquels on 
+
+les reconnoît ; u j i 
+
+5®. Les caufes conhues lou probables de leur tor- 
+
+mation ; . . ^ 
+
+6 *. Leur altération plus ou moins ancienne, ou pal- 
+
+Enfin leurs propriétés dans lerat aétiiél. 
+
+IL La chimie minérale s’occupe, en fécond ordre, des 
+opérations qui fe font fur les minéraux : foit dans la 
+vue M’obtenir ces fubftances fimples ou indécompofées , 
+dans leur état de pureté ^ c eft ce qu on nomme pro- 
+eédés de dépare ou fépa^ratio^i : foit pour découvnr & 
+
+
+
+
+1 
+
+dofer les parties confl:ULianres des minéraux j ce qui cft 
+proprement ranaîyfe : 
+
+Soit enfin pour obtenir des compofés , ou femblables 
+a quelques-uns des corps naturels, ou qui ne font que 
+des produits des arts chimiques. 
+
+III. L’application a la direàion Sc au pérfeôionnement 
+des arts qui emploient Ôc traitent les minéraux, ou comme j 
+matière, ou comme inftrument , forme le troifième objet 
+de cette partie de la chimie. 
+
+La chimie minérale , ainfi confidéréc peut être dif- 
+tnbuée en vingt-quatre leçons , dont il fuffit préfente- i 
+ment d’indiquer Tordre Ôc le fujet particulier 5 le plan 
+d’enfeignement que Ton vient d’expofer , devant fe rap- 
+portent dans chacune d’elles, ou, pour .mieux dire , fur tous 
+les genre? , les efpèces & les individus de ce qui appar- 
+tient au fyftême minéral. 
+
+P*"® Leçon. \ 
+
+, ; . . il 
+
+plan d’enfeignement. Hiftoire naturelle des minéraux. !| 
+Méthode de clarification. Caradères extérieurs. Analyfc | 
+minérale. Objets des opérations chimiques fur les mL 
+néraux. Application aux arts. 
+
+I I® Leçon. 
+
+Déveroppemens de la claffification. Syflême des ca- 
+radères fenfibles. Moyens généraux de départ ou fé- 
+paration & d’analyfe. Synthèfe ©u reprodudion arti- 
+ficielle des minéraux. 
+
+
+IIP Leçon. 
+
+Caradères généraux des terres ôc de Leurs principaux 
+compofés naturels. De la Jillce ôc des minéraux dont cettt 
+
+
+teire fait la patrie domini:ite. 1 ilaiauchalùiiwau. De 1 ... t 
+de la vittificatiou, & de (is dépendances. Flux ttrtei.^. 
+DllTolutions de la filice 8cde fes produits. 
+
+I V* Lifon. 
+
+De l’alumine & de fes compofés. 
+
+& artificielles. Poterie fimple ou ^ . 
+
+tier, du potier, de la porcelaine. Py^ni«re 
+d’alumine. DiiTolutions de cette terre Sc leurs produits. 
+
+•V® Leçon» 
+
+Deia'pfiauxÆ- de £es compofés. Carbonates de chaux. 
+Théorie de ïeur calcination. Des mortiers , cimens bétons 
+
+De la DiiTolutions de la chaux é. 
+
+leurs produits. . 
+
+De k baryte. \ Leurs compofés «awrels & atnhcie . 
+De la magnéfie- i Produits de leurs dilïoiunons. 
+
+V P leçon. 
+
+Des (ehfojrdis. Sels fimples, acides ou a/du/ws. Selsà bafe 
+alkaline , nitre de houlTage. fel gemme extraftion de ce 
+fel. Ttavaux'des falines, matais falans. Carbonate de foude 
+natif. Soudière artificielle. Du tinckal ou borate de foude . 
+fa purification. Ufages de ces fels. 
+
+y I 1® Leçon, 
+
+Sels à baft tcrrtufe. S^lÎM de chaux ou gyp^e ; cuiiron 
+& emoloi du plâTe. Des fulfates de baryte , d aluniine , 
+de magnéfie j citrates de chaux, de «agnélie^ fluate de chaux. 
+Phofphate de chaux. Tunftate de chaux. Emploi de ces lels 
+dans les arts. 
+
+L a - 
+
+
+/ 
+
+
+
+.j.=.»...c,ues roiiiies. Sulfates de culTte , de fer , de 
+iali;,cation des pyrites ou fulfures métalliques. Mu- 
+mtes d argent , de mercure. Carbanatçs métalliques natifs. 
+Travaux ciîimi^wes fur ces feîs. 
+
+I X* Leçon^ 
+
+Des fubjiances inflammables. Leurs caraûères leurs 
+propriétés, leur giLment. Du diamant. Sa combuftionà 
+lair & par le nitre. Du foufre. Extraélion & travail des 
+pyrites pour obtenir le foufre. Combuftion de ce miné- 
+ral , ou fou acidification par l’air , à l’aide de la chaleur. 
+Union du foufre aux métaux. Mines artificielles. 
+
+X' Leçon, 
+
+&iice des fubft.mces inflammables. Mines de charbon 
+ronili , leur extraélioM ; converfion de ce charbon en coclcs 
+& cinders. Son ufige dans les arts. Des bitumes % pro- 
+ûuits de leur diiiillacion. ^ 
+
+Acidihcarioîi àu.fuccin, 
+
+Î3es carbures, natifs de artificiels* - 
+
+Des phofphures; qualité que le’phorphore donne au 
+
+X I® Le^on. 
+
+^Des: fuhflances métdiiques. Caraàèrss. généraux des 
+filons métalliques. Théorie des princip.ales. opérations qui 
+e font, fur les mines métalliques & métaux, telles que la 
+fixiYi^ion, le grillage, la réduéfionou défoxydation , la 
+Iiqiiidarion l’amalgamation , le départ, l’afEnage , la cou- 
+pellation, la fuflon, le moulage, l’alliage, la foudure. 
+
+
+
+
+rétamage , la granulation , la fublimation , y ^ 
+dilTblution acide, la fulfuration , la car 
+
+ponation. Divifion des métaux finvant eur o 
+
+
+X I P Lceon. 
+
+Du platine ; de fa mine, procédé de fon aflFmage , fou 
+
+■"1 p»ead. 
+
+produit des opérations de ia ch.mie lut lor. 
+
+XIII' Leçon. 
+
+
+
+De r argent-, de les mines ; pwédés d’extra&on , 
+
+d’affinage, de coupellation. l'“métaax à 
+
+nu mercure ■ de les mines , fon aftion fut les 
+
+I. i fowi.é q.« ,x“xs; 
+
+vation'de chaleur -, de ramalgamatton o. del 
+à diffétens arts. 
+
+X 1 "V* Leçon. 
+
+Du cume:.ào fes mines, cuivre de cémentation cui- 
+vre de liquation, affinage , alliages , diirolution 
+; opnétés & ufages tics produits de ces oi^rations d.p 
+métal des cloches; travaux des fonderies pour le» 
+pièces d’artillerie, pdur le doublage.des vauloaiix, 
+
+, . X V' Lcfm. 
+
+Duplomh;is iés mines, jT tms 
+
+il ea fobiet. De fes alliages, -^f du 
+
+produits. De la coupellation préparée, on Y! hffii4 
+
+Linium. AÛion de Poxyde de pbmb fur !.s hml-s , 
+
+ufagèlS dans les arcs. 
+
+
+
+
+Dt -tciain-, de fas mines, de ieiireïplüitîtion. Dépn* 
+
+de l etam da commerce Opérations chimiques fur^ 
+
+X V I« Leçon. 
+
+de fes mines, leureflài, leur réduaion dar» 
+
+catalane. Du fer 
+
+fragile a chaud, du fer fragile à froid. Effets de la mal- 
+JvaLion fur le fer; jnagnctifme du fer. 
+
+X y I P Uçon. 
+
+^ ^ite du fer. Caraûèies différens de la fonte du fer Se 
+
+nci“d"vrff '•■‘■“•'i p'“=^ pour éb'„!; 
+
+I acier de tuhon 1 aaer de cementation : de la cremo- 
+dons.""''' '* ^ 
+
+
+alli^'/rSt'-’ leur réduaion; de fes 
+
+alliages & dilTolutions ; mewl d’imprimerie. 
+
+_ bifmmh - à& fes mines , de fes alliages & diffelu- 
+tions ; coupellation par le bifmuth. 
+
+V ^A-4T ■ œiues, fa combuftibiliré ; fes alliages 
+& diiroIunons; propriétés & ulages du laiton : mitai 
+x^nque , préparation & avantage du blanc de zinc. 
+
+
+XI JP 
+
+De l’arfenic , du cob; 
+
+
+Leçon, 
+
+
+, , cle niekeL 
+
+rieurs iTiines, opérarions mérnllurgtqL’es &: 
+cçs dGini' mcîaux , propricrcs & uia'^'ss de 
+Gompo/îtion d«s -miroirs 
+Chinois. 
+
+
+'ques. 
+
+
+J 
+
+
+
+I 
+
+
+XX* Lcf 
+
+
+on. 
+
+
+Du manganèfe, du molybdène , propriétés 
+
+tcres de ‘ leurs armes, procédés , 
+
+des produits. Ufige c|u “?"\iancheries bertholiennes. 
+dansées faïenceries, dans les “^aiffeaux. 
+
+Appropriation du wolfram au leftage des 
+
+XXI* & XXII* Levons. ^ 
+
+Des produUs ïs Snce's" UfageTdu 
+
+
+XXIII* & XXIV* Leçons. 
+
+Des eaux minérales , par 
+
+,aux fulfureufes, ’ ."riSs leur compo- 
+
+es nàuféabonde de 
+
+Stion artificielle ; cauies q profondeur, 
+
+l’eau de mer )ufqua une cerraine p 
+
+
+1 ■ 
+
+
+
+
+
+
+
+
+
+
+
+APPLIQUÉE A LA MÉCANIQUE. 
+
+
+L 
+
+
+Introduaion Ô principes généraux. 
+
+l’iNSTiTUT-CR. qui trouvera !’efprit des 
+)ar letude de la phyfique , de 'a chimie & de lanalyfe 
+;éo oécrique, poutia leur préfenter qudqiics 
+ions générales propres à motiver 1 erude de la meca- 
+aioue & A en inspirer le goût ; il pfera enlu.te a lex- 
+
+lotition des principes généraux, qu dan* 
+
+quelques détails fur la marche de lelprit humain uan* 
+le développement de fes tacukes, fur es protc , 
+aufli peu nombreux que (Impies , qii emploie la nature 
+pour conduire IVntendemetit de la f.nfation 
+la confidéiation des qualités ijolccs qii conftitucnr 1 objet, 
+caradériftique de chaque fcience , &: la claOlnt dans 
+l’ordre encyclopédique. 
+
+Les propriétés abflialtes des corps que confidere la 
+mécanique , font l’étendue & ’la hgure , qui lui (ont 
+commune'- avec la géométtie ; la malle, i impenetiabi ité 
+& la mobilité, empruntées de la phyhque: elle Y 
+ridée du temps dans tous les cas ou- il y a ptodufti n 
+de mouvement. L’inftltuteur s’ôccuper.a d abord du rap- 
+prochement & de la combinaifon de ces elemens fonaa- 
+Lentaux, pouren déduire les principes <=-T‘”Xés con 
+
+les théories mécaniques i principes tels, , 
+
+venablemenc par le géomètre L 
+
+folution des oueftions les plus compliquées de 1 équilibré- 
+
+& du mouvetnent. Voici l’ordre de cette expofition nr.- 
+
+■NT 
+
+
+
+“S'Æi;:" ai.i- 
+
+L’.dée de la mobilité fe lie naturellement à celle des 
+phénomènes qu. caufent ou aeeWagnent la ptSuaion 
+
+binei. Ces pheromenes, ou font peixeptibles d nos fens 
+
+comme limpulfion, le rbor Xr: . ^ ^ i 
+
+fens «ni n’o ^ fnoc, ^ ou échappent a nos 
+
+’a tnaln Tl que les réfultaîs ; ce font 
+
+attuéi.on & la repulflon. Les effets du choc dépendant 
+
+de quelques propriétés des corps qui, dans la namr'e 
+partie, part plus ou moins de certaines qualités extrêm4 ’ 
+
+■ff j' St rélariidié pjrfaire! ■ les 
+
+;et^dehmpïr ^ ^ 
+
+^ les P emières notions fur les phénomènes qui accom- 
+
+.e id.e exaéte, & nullement de mefurer le mouvement 
+,qui coextfte avec ces phénomènes. «’ouvemeue 
+
+«r\™°bihté ^combine enfuite avec l’efpace parcouru 
+& le temps abftra&on faite des caufes du mouvemrt 
+& il en refaite 1 idée de la vùejfc , qui comm n e à 
+ou™ un objet menfurable. l av/r# eft conftante, vllée 
+uniformément, ou variée fuivant nue loi queirônaue 
+tous les cas que comportent ces diffétens états, fe dédui'fent 
+de deux lormuJes fondamentales 
+
+de^ataïtlfr^'^ " Pon -tour, avec celles 
+
+de la ma..e & de 1 meme : cette réunion donne l’idée 
+de la quanme d: moi:ycmem & celle dis force,' nt^trires 
+& fournit le moyen d’analyfer divers effets qui fe rap- 
+
+c!s deT'-ru'"'’' On en déduit, 
+
+. le de 1 equdibre entre deux points maffifs allant 
+
+a la rencontre 1 un de l’autre avec dei quantités de mou! 
+
+vement égalés; a . la mefure du mouvement final, lorfque 
+
+les quantités de mouvement font inégales, foit quelles 
+
+
+? 
+
+
+corps aillent à la rencontre ou à la !r^ 
+
+3 ".la quantité de mouvement vartable, & k vuelTe d un 
+
+point niairif fjlicité pat i’ (cui’il 
+
+fjuancîté cit mouvement, Ta viteiTe & fa dire ion c ] 
+eft follicité, en même temps, pat deux forces motcKCS 
+ou par une feule dont l’effi.t eft modihe par une reU - 
+tance, d’où réfulte le principe de la compofiuon des 
+
+. ■> r A' 
+
+La théorie du levier & celle du plan mclinc fe de- 
+diiifent immédiatement de la compofition des t irces , 
+& n’tn font , à proprement parler , opie des enonciations 
+particulières adaptées à l’ufage des machines. 
+
+On explicîiiera le fameux principe des vhef es virtuelles, 
+& on fera voit qu’il fatisfait » tous les cas d équilibra 
+précédemment mentionnés. 
+
+Les notions préliminaires fe termineront par quelques 
+reflexiens fur la mefure des forces, & les dnputes qui 
+ont eu lieu à ce fajet parmi les géomètres , & lut i«s 
+caradères & la diftinaion des forces vives & des forces 
+mortes. , . . . 
+
+L’iuftituteur , en récapitulant les notions préliminaires, 
+pariera de l’influence d’une langue bien laite fur 1 etiulc 
+la petfeâion d’une fcience quelcont]ue ; il ne le laliera 
+point de replier l’attention des élèves fur cet objet im- 
+portant , & la fuite des leçons lui en fournira de Ire- 
+quentes occaüons. 
+
+Avplicaüon des principes généraux a la mécanique 
+des iorps fohdes. 
+
+Les applications des principes généraux de h mecani- 
+■ que ont .pour objet, i®. les corps fohdes , a • les corps 
+fluides. L’inftituteur traitera d’.abord de la prenuere tf- 
+pèce de corps. ^ 
+
+
+
+4 
+
+La mécanique des corps folides fe divife tajlatique 
+
+& dynamique, 
+
+la Stati<2üe fait abftraétion du temps, & confidèr# 
+leulement les adions réciproques des puiflances appli- 
+quées a un fyftême de points & de corps , de telle forte 
+que les adions réfultantes de ces puiiTances fe détruifent 
+réciproquement , & que le lyftêrae refte immobile, cha- 
+cune de fes parties ayant néanmoins une tendance au 
+mouvement. 
+
+I premier lieu., les cas d’équi- 
+
+libre qui font indépendans de la forme aiarriculière des 
+corps 3 & expofera: 
+
+La compolition & décompofitioii des puiflarices en 
+nombre & àireétion quelconques ; 
+
+La théorie des mouvemens j 
+Les centres des forces; 
+
+L équilibre d un point ^ folhciré par des puilTanccs 
+quelconques , & allujéti ou non à tourner autour d’un 
+autre point; 
+
+La tfeeorie de la ftabilité , qui efi: de deux fortes : 
+favoir , celle qui une fois dérangée ne fe rétablir plus , 
+celle qui fe rétablit après de petits dérangemen t ; ^ 
+
+Le principe des vîtelfes viicuelles avec des développe- 
+mens, 6c des applications plus détaillées que celles don- 
+nées dans les notions préliminaires. 
+
+Divers principes fecondaires qui font des conféquences 
+de ce principe. 
+
+Pour appliquer la ftatique aux cas d’équilibre aue la 
+nature & les arts peuvent nous offrir, il faut déduire 
+des principes précéiens: 
+
+Le centre d’inertie d’un corps ou d’un fyftême de 
+corps ; 
+
+L’équilibre d’un fyftême lié de points maftifs , & 
+celui d un corps continu, follicités par des puiflances en 
+nombre , quantité 6c direélion quelconques ; équilibr» 
+
+
+5 
+
+.Mi i t. ; “■ “ 
+
+r'* "ïlir flmpk’i , & I. détetmina- 
+: vouvemUrs dlverfes patries; 
+
+“LtrîÏifc ^JescoT* “ 
+
+élifticit^. entrer le temps en confidération , 
+
+& objet l’aaion des pnhlanccs fur les corps de 
+
+l auelle il rél'ulte un mouvement. . 
+
+‘Ta théorie générale de la dynamique contiendra, 
+t-expofitioif des principes au moyen dcl^quels les pro- 
+blêmes ^du mouvement fe léduifent a ceux de ^*1““ » 
+
+La manière de ramener aux cas des mouvemens li- 
+bres leTrliouvemens qui font modifiés par des obf- 
+
+'“ÊLd.ti,,.. a™, le. .eteps, Ij "*»' J ^ 
+
+gueur de la ligiie paixüuru^e ans ^ ^ fuDDofée - 
+
+lances qui foUicitent un coifis dont la made elt luppolee 
+
+rnnrentrée dans fon centre dinci tic; 
+
+La force centrifuge réfultant du mouvement en ligna 
+
+.courbe ; , i r i 
+
+La théorie du pendule nmple. ^ 
+
+Divevfes conféquences générales , qu on peut p y 
+comme nvincipes dans la folution des problèmes. ^ 
+
+^ ('être théor^ie générale peut d’abord s’appliquer a un 
+fvftêmrde points^liés entre eux, ou indépendans les uns 
+des Tu ret^ou agiflant les uns fur les autres par artraa.on 
+ou rTpuT;»; cl qui donue lieu aux objets futvans ce 
+
+"Ïvïn; pT»uiu. P» k ceiim Je p.M . 1. AA 
+
+*^*La^dîftlnàbn entre les mouvemens ptogrcOif & gP' 
+Titôire d’un fyftême de points liés entre eux ; ^ 
+
+{ ’indépen -lance réciproque de c« 
+ù moTem-ent dVin pint ou d’un fyften^ de p-mars 
+
+Mécanique. ^ 
+
+
+\ 
+
+
+
+A ./T» ^ ^ ânt comme une fondbion de k 
+
+vitefle ; 
+
+^ Celui de pUifieurs points lancés dans l’efpace , ôc 
+s attirant comme des fondions de la maiïe <5c de la dif- 
+tance, applicable au problème des trois corps & au fyftême 
+du monde. ^ 
+
+PafTant des points maffifs aux corps continus , les 
+
+applications de la même théorie srénérale ont pour 
+objet: " ^ 
+
+Les momens d’inertie ôc les axes principaux de ro- 
+tation uniforme * 
+
+Le mouvement d’un corps autour d’un axe fixe* 
+
+Les centres de pereuffion; ’ 
+
+Les centres d’ofciilation , ôc la théorie du pendule 
+compoie ; * 
+
+Le mouvement d’un corps de figure variable ou conf- 
+tante , lance dans l’efpace , & animé par des puiffances 
+quelconques : theone qui s’applique à divers points d’af- 
+tronomie phjlique , & aux chocs des corps dans des 
+direétions qui ne palFent pas par leur centre de gra- 
+vne, ces corps étant fuppofés parfaitement durs ou tels 
+que la nature nous les offre , dans lefquels la commu- 
+nication du mouvement fuit la loi de continuité. 
+
+Application des principes généraux à la mécanique 
+t des fluides, 
+
+La mécanique des fluides fe divife en hydrojlatiaue 
+^ hydrodynamique, ^ j n 
+
+L Hydrostattoüf. fan; abUraélion dutemps,& confidère 
+les cas ou es adions mutuelles des puilfafices appliquées 
+aux molécules d un fluide , lè détruifeiir réciproquement- 
+chacune de ces molécules ayant néanmqins une tendance 
+«U mouvement. 
+
+
+Elle confidci-e de plus l’cquiUbte entre le» fluide? «« 
+
+les corps folides. ^ à la théotio 
+
+' Les pnnt'ipes géncraiix cju 
+de l’hydroftacique ^nt : i 
+
+L’égalité de prelTion du quelconque., 
+
+L’équilibre d un canal 
+
+"Ces principes ii°“ontrê la furtace des corps 
+
+S»» ”o/£t rr,$î£- „.ae 
+
+“S“«SS “-“1""“ '* ' 
+
+“ÈqlSlfr U s >* P“““ 
+
+fée des fluides Sc des terres , 
+
+La théorie du bîtomètte ; 
+
+La figure des planètes , &c. ^^ 
+
+L’Hydrodynamique fait t J^nces fur les' 
+
+, ration , & ^ pour objet refaite un mou*- 
+
+aux queftions parncaliems . ^ exprinaenc 
+
+. les foimuks reuv’'rubfticue otèliraitenieni'l’.u- 
+
+^ hyposhèfe 35' 
+
+' tierice quil en a raite, q hvoothétiques & pte- 
+
+V droydnamique par desjun^^p^^^,^JP^^^^ • U;, 
+
+sS; p“ . t». r.ir,e p.c les ae,es ,.1 >«"»= 
+
+
+'iV 
+
+
+V 
+
+
+
+notions d analyfe , & introduire enfuire dans les foi- 
+iMuJes ngoureufes les conditions qui les rendent inté- 
+grables. Cette marche paroît plus fatisfaifanre & plus 
+méthodique en ce quelle montre les rapports quilfent 
+Ja théorie ufiielle à la théorie rigoureufe. 
+
+Ces formules, ainfi modifiées', s’appliquent à l’écou- 
+lement par des orifices, avec ou fans ajulge, .n Zm 
+
+A * au cours de 
+
+i eau dans les tuyaux , dans les canaux direfts ou de 
+
+dérivation, &c. ; mais les réfultats qu’elles donnent ont 
+
+fhvdrS pl'ifieurs détails fur 
+
+i Hydrodynamique experimentale. 
+
+coinriî®”}'® fluides eft implicuement 
+
+«offlKT ™°U'’ement; mais l’im- 
+
+f ob déduire a caufe des bornes de l’analyfe , 
+
+a obage les geomettesd en faire une branche particulière 
+
+&fon b:/- elle eft peu avancée, 
+
+& fou hiftoire offre plus de tentatives que de fuccès. 
+
+mécanique des fluides par 
+quelques reflexions - fur les moyens de lier à une théorie 
+
+® “■'P* & celui des corps 
+
+Application des principes généraux aU calcul de l’effet 
+des machines. 
+
+La connoiffance de l’effet des machines porte fur trois 
+Objets , qui font : ^ ^ 
+
+1°. Les moteurs; 
+
+tranf T^®"',-nP” moteur fe 
+
+tran^imet a la reüftance, ou les machines propiement 
+
+3®*, Les rélîftances.. 
+
+
+Les moteurs font animés ou Inanimés. 
+
+Les moteurs animés font les hommes üc les animau 
+qui agiffenr, 
+
+Far leur poids, 
+
+Par leur torce mufculaire. 
+
+Par leur poids cV leur force mufculaire. 
+
+Ces trois manières dagir font Lifceptibles de plu- 
+
+ficurs modifications, fuivant la diredion 
+
+lequel l’homme ou l’animal agilPent , le plan fur Lquel 
+
+ils fe meuvent , &c. 
+
+Les moteurs inanimés font : 
+
+Les corps folidcs ,.agiirant par leur poids ou leur choc. 
+L«s fluicies liquides , confidérés comme ne pouvant 
+chaneer de volume par la comprefiTion & agifiant par 
+leur choc, qui peut être direét, oblique ou e reac 
+tion , leur poids, ou leur choc Ôc leur poids réunis. 
+
+[ es fluides gazeux , tels que l’air ôc les hqiu' es v. 
+porifés. LVir agit par fon choc 5c’ fon poids. C n peu 
+Lfll employer fon relTorr, foit en le comprimant , loi 
+en changeant fa température. Les liquides vapori 
+agilfent par leur force expanlive > comme le gaz aqueux 
+
+dans la machine â fen. . , 
+
+Les matières fiifceptibles de détonation , comme la 
+poudre à canon , dans les efcaipemens de rochers. _ 
+l a contradion & la dilatation des bois ôc des mé- 
+taux , par rhumidité & la chaleur. ^ 
+
+z". ! es machines qui tranfmettent l’aaion du mo- 
+teur à la réfiftance, font deftinées à mouvoir les corps 
+
+fülides" ou les corps fluides. 
+
+Les machi’îes à mouvoir les corps ^ folidês le rap- 
+pottent au levi.r , an plan incline , ou à la com mai on 
+
+de Tan dj 1 autre. . - • 
+
+La même choie doit s’entendre de celles qni^ lont 
+dcftinéîs à mouvoir les corps fluides; mais ces .uer- 
+rdères doivuir, fous a autres afpefts , erre rangées e» 
+
+
+
+î“èî î; i-fr™ 'S'®"' I» 
+
+iwSt'î-i'tvr •S'"'"' 
+
+..pXr&d“r;”‘‘'"“ • ■>" I“» 
+
+Les roues qui fe vuidenc’ par le centre. comm“ k 
+roue a rynapan ; celles qui fe Guident par la cTconfé 
+,comnie les roues .à goders , les Lia, L. " 
+
+JLqs inacnines a cafciile ^ ^ 
+
+Les vis d’irchimè e & d’e Zurich ; 
+
+Les machines où le refoiiltmtnr de l’eau eft opère' 
+par im pifton fou par la preffion de la vaLr ’ 
+
+Les macauies a elever les Suides qui ac^iifeurpar Fin 
+termcde de i'air^ font: ' «-onieur par Un- 
+
+Celles où l'on%mplôie le relTort de Fair coud.nfé- 
+quelquefois cette condenfarion ifa d’autre ufac^equfdê 
+rendre 1 écoulement continu. ° ^ 
+
+s’oS“ "" ce qui 
+
+Par le mouvement d’un pifton, - 
+Par la defcente d’un fluide. 
+
+Par la condenfition de la vapeur , 
+
+1 ar la force centrifuge. 
+
+utile refift.ancesfoat, ou celles qui conftituent l’effet 
+
+Soi d comporte la pro- 
+
+riu-ion du mouvement des parties de cette rn.achine. , 
+
+Lcnort du à la première efpèce de ré:i£lauce fe ré- 
+^ en général : 
+
+A vaincre Fadhéfîon ou la cohérence d’une mafTe avec 
+
+U UC 3UtlC^ 
+
+A faire pafTer une malTe d’un lieu dans un autre, foit 
+la faiiant glilTer ou rouler médiatement ou immé- 
+diatement, foit en fuppottant tout fou poids. , 
+
+
+
+L effort que comporte la prorlii(flio!i du mouvement 
+des parties de la macliinc efl cmpl >yé à fiinn )nrer : 
+
+I/inertic des maffes qui ont, mouvement continu ou 
+ofcillntoirè , rcdti.ignc ou circuliire j 
+
+I/adhéfion ; 
+
+Le frottement J qui efb du premier ou du Iccand genre. 
+L’influence de cel à du premier genre doit être exam iies 
+dans le cas d’équilibre ik dans celui du mouvement. 
+I^ans l’im ôc l’autre cas, il faut avoir égard à la nature 
+des corps donc les furfaces fe frottent. Le fiotcemenc 
+€ft employé, dans quelques circonftances , pour arrêter 
+ou niodérer un mouvement acquis , 5c ferc aulli tres- 
+iitilement pour remplacer les engrenages des Toues. 
+
+La roideiir des cordes & des chaînes , qui varie fuiyant 
+leur grolTeur , leur fabrication , leur degré d humidité 
+ôc de féchereiïe , leur enduit , 5cc. 
+
+L’inHiituteur donnera le détail des meilleures Çxp-- 
+rîences faites fur l’adhéfion, le frottement & la roideur 
+des cordes , en attendant que celles qu on va 
+très en grand , à l’école centrale , fur les memes objets, 
+foient terminées. 
+
+
+
+
+
+
+

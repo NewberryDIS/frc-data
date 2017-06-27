@@ -1,7 +1,8 @@
 # frc-data
-OCR text and XML files, Metadata for the Newberry's French Revolutionary Pamphlets Collection
+OCR text and XML files, Metadata for the Newberry's French Revolutionary Pamphlets Collection. 
+
 # French Revolution Pamphlets 
-This repository contains the OCR text and metadata in-progress from the *French Revolutionary Pamphlets Digital Initiative* at the Newberry Library.
+This repository contains the OCR text and metadata in-progress from the *French Revolutionary Pamphlets Digital Initiative* at the Newberry Library. For more information: http://publications.newberry.org/dig/frc/index
 
 ## Status of the data
 The text and data in this repository is currently in a pre-release state, and it may not yet be complete or checked for accuracy.

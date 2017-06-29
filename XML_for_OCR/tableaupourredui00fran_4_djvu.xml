@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML>
+<DjVuXML>
+<BODY>
+<OBJECT data="file://localhost//var/tmp/autoclean/derive/tableaupourredui00fran_4//tableaupourredui00fran_4.djvu" height="1778" type="image/x.djvu" usemap="tableaupourredui00fran_4_0001.djvu" width="2726">
+<PARAM name="PAGE" value="tableaupourredui00fran_4_0001.djvu"/>
+<PARAM name="DPI" value="350"/>
+<HIDDENTEXT>
+<PAGECOLUMN></PAGECOLUMN>
+<PAGECOLUMN></PAGECOLUMN>
+</HIDDENTEXT>
+</OBJECT>
+<MAP name="tableaupourredui00fran_4_0001.djvu"/>
+<OBJECT data="file://localhost//var/tmp/autoclean/derive/tableaupourredui00fran_4//tableaupourredui00fran_4.djvu" height="1778" type="image/x.djvu" usemap="tableaupourredui00fran_4_0002.djvu" width="2726">
+<PARAM name="PAGE" value="tableaupourredui00fran_4_0002.djvu"/>
+<PARAM name="DPI" value="350"/>
+<HIDDENTEXT>
+<PAGECOLUMN>
+<REGION backgroundColor="12763850">
+<PARAGRAPH>
+<LINE>
+<WORD coords="208,343,224,320,343">&gt;</WORD>
+</LINE>
+</PARAGRAPH>
+</REGION>
+</PAGECOLUMN>
+<PAGECOLUMN></PAGECOLUMN>
+</HIDDENTEXT>
+</OBJECT>
+<MAP name="tableaupourredui00fran_4_0002.djvu"/>
+</BODY>
+</DjVuXML>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML>
+<DjVuXML>
+<BODY>
+<OBJECT data="file://localhost//var/tmp/autoclean/derive/tableaupourredui00fran_5//tableaupourredui00fran_5.djvu" height="1837" type="image/x.djvu" usemap="tableaupourredui00fran_5_0001.djvu" width="2795">
+<PARAM name="PAGE" value="tableaupourredui00fran_5_0001.djvu"/>
+<PARAM name="DPI" value="350"/>
+<HIDDENTEXT>
+<PAGECOLUMN></PAGECOLUMN>
+</HIDDENTEXT>
+</OBJECT>
+<MAP name="tableaupourredui00fran_5_0001.djvu"/>
+<OBJECT data="file://localhost//var/tmp/autoclean/derive/tableaupourredui00fran_5//tableaupourredui00fran_5.djvu" height="1837" type="image/x.djvu" usemap="tableaupourredui00fran_5_0002.djvu" width="2795">
+<PARAM name="PAGE" value="tableaupourredui00fran_5_0002.djvu"/>
+<PARAM name="DPI" value="350"/>
+<HIDDENTEXT>
+<PAGECOLUMN></PAGECOLUMN>
+<PAGECOLUMN>
+<REGION backgroundColor="12302781">
+<PARAGRAPH>
+<LINE>
+<WORD coords="608,167,802,138,166">tableau</WORD>
+<WORD coords="833,169,950,140,167">pour</WORD>
+<WORD coords="981,172,1164,138,170">réduire</WORD>
+<WORD coords="1194,171,1266,144,171">les</WORD>
+<WORD coords="1296,176,1551,144,173">nouvelles</WORD>
+<WORD coords="1581,180,1771,151,178">mesures</WORD>
+<WORD coords="1801,182,1853,154,181">en</WORD>
+<WORD coords="1880,189,2136,155,184">anciennes,</WORD>
+</LINE>
+</PARAGRAPH>
+<PARAGRAPH>
+<LINE>
+<WORD coords="791,227,929,202,226">-RÉDIGÉ</WORD>
+<WORD coords="953,229,1019,210,228">PAR</WORD>
+<WORD coords="1043,230,1213,195,229">L&apos;AGElTtE</WORD>
+<WORD coords="1236,233,1478,212,231">TEMPORAIRE</WORD>
+<WORD coords="1500,235,1566,216,234">DES</WORD>
+<WORD coords="1591,237,1701,217,236">POIDS</WORD>
+<WORD coords="1725,239,1767,221,238">ET</WORD>
+<WORD coords="1789,242,1956,222,240">MESURES.</WORD>
+</LINE>
+</PARAGRAPH>
+</REGION>
+</PAGECOLUMN>
+<PAGECOLUMN>
+<REGION backgroundColor="12962519">
+<PARAGRAPH>
+<LINE>
+<WORD coords="841,1479,861,1458,1479">A</WORD>
+<WORD coords="878,1487,990,1460,1481">PARIS,</WORD>
+<WORD coords="1006,1483,1050,1462,1483">DE</WORD>
+<WORD coords="1066,1488,1314,1463,1486">L&apos;IMPRIMERIE</WORD>
+<WORD coords="1329,1489,1373,1468,1489">DE</WORD>
+</LINE>
+</PARAGRAPH>
+</REGION>
+</PAGECOLUMN>
+<PAGECOLUMN>
+<REGION backgroundColor="13225433">
+<PARAGRAPH>
+<LINE>
+<WORD coords="1441,1499,1679,1467,1492">RÉPUBLIQUE.</WORD>
+<WORD coords="1694,1494,1788,1472,1493">Frimaire</WORD>
+</LINE>
+</PARAGRAPH>
+</REGION>
+</PAGECOLUMN>
+<PAGECOLUMN>
+<REGION backgroundColor="13225690">
+<PARAGRAPH>
+<LINE>
+<WORD coords="1800,1493,1824,1480,1493">an</WORD>
+<WORD coords="1835,1493,1890,1471,1493">VII.</WORD>
+</LINE>
+</PARAGRAPH>
+</REGION>
+</PAGECOLUMN>
+</HIDDENTEXT>
+</OBJECT>
+<MAP name="tableaupourredui00fran_5_0002.djvu"/>
+</BODY>
+</DjVuXML>

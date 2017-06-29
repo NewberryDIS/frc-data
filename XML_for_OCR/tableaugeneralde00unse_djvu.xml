@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML>
+<DjVuXML>
+<BODY>
+<OBJECT data="file://localhost//var/tmp/autoclean/derive/tableaugeneralde00unse//tableaugeneralde00unse.djvu" height="3204" type="image/x.djvu" usemap="tableaugeneralde00unse_0001.djvu" width="2705">
+<PARAM name="PAGE" value="tableaugeneralde00unse_0001.djvu"/>
+<PARAM name="DPI" value="350"/>
+<HIDDENTEXT>
+<PAGECOLUMN></PAGECOLUMN>
+</HIDDENTEXT>
+</OBJECT>
+<MAP name="tableaugeneralde00unse_0001.djvu"/>
+<OBJECT data="file://localhost//var/tmp/autoclean/derive/tableaugeneralde00unse//tableaugeneralde00unse.djvu" height="3204" type="image/x.djvu" usemap="tableaugeneralde00unse_0002.djvu" width="2705">
+<PARAM name="PAGE" value="tableaugeneralde00unse_0002.djvu"/>
+<PARAM name="DPI" value="350"/>
+<HIDDENTEXT>
+<PAGECOLUMN></PAGECOLUMN>
+<PAGECOLUMN></PAGECOLUMN>
+</HIDDENTEXT>
+</OBJECT>
+<MAP name="tableaugeneralde00unse_0002.djvu"/>
+</BODY>
+</DjVuXML>

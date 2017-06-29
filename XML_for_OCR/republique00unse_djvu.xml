@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML>
+<DjVuXML>
+<BODY>
+<OBJECT data="file://localhost//var/tmp/autoclean/derive/republique00unse//republique00unse.djvu" height="3238" type="image/x.djvu" usemap="republique00unse_0001.djvu" width="2426">
+<PARAM name="PAGE" value="republique00unse_0001.djvu"/>
+<PARAM name="DPI" value="350"/>
+<HIDDENTEXT>
+<PAGECOLUMN></PAGECOLUMN>
+</HIDDENTEXT>
+</OBJECT>
+<MAP name="republique00unse_0001.djvu"/>
+<OBJECT data="file://localhost//var/tmp/autoclean/derive/republique00unse//republique00unse.djvu" height="3238" type="image/x.djvu" usemap="republique00unse_0002.djvu" width="2426">
+<PARAM name="PAGE" value="republique00unse_0002.djvu"/>
+<PARAM name="DPI" value="350"/>
+<HIDDENTEXT>
+<PAGECOLUMN></PAGECOLUMN>
+<PAGECOLUMN>
+<REGION backgroundColor="14145479" orientation="RotatedCounterclockwise">
+<PARAGRAPH></PARAGRAPH>
+</REGION>
+</PAGECOLUMN>
+</HIDDENTEXT>
+</OBJECT>
+<MAP name="republique00unse_0002.djvu"/>
+</BODY>
+</DjVuXML>

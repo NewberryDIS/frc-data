@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <language>fre</language>
+  <scanningcenter>indiana</scanningcenter>
+  <sponsor>The Newberry Library</sponsor>
+  <contributor>The Newberry Library</contributor>
+  <subject>Lawyers</subject>
+  <title>Compte rendu /</title>
+  <creator>Basoche.</creator>
+  <creator>Basoche</creator>
+  <creator>Paris (France)</creator>
+  <collection>newberryfrenchpamphlets</collection>
+  <collection>newberry</collection>
+  <collection>americana</collection>
+  <shiptracking>TNL05003</shiptracking>
+  <call_number>Case FRC 1868</call_number>
+  <publisher>[Paris] : De l'imprimerie de Lottin l'aîné, &amp; Lottin de S.-Germain,</publisher>
+  <physical_description>23 p. ; 21 cm.</physical_description>
+  <link_to_catalog>http://vufind.carli.illinois.edu/vf-nby/Record/nby_43362</link_to_catalog>
+  <description>Half title. Imprint from colophon</description>
+  <description>Caption on p.[3]: Extrait du procès-verbal de l'assemblée des représentans de la commune de Paris. Du jeudi 4 mars 1790. Séance du soir</description>
+  <description>Martin &amp; Walter IV 2: 3689 (which specifies: Vérification des comptes des volontaires de la Bazoche [i.e. Basoche])</description>
+  <mediatype>texts</mediatype>
+  <repub_state>19</repub_state>
+  <page-progression>lr</page-progression>
+  <publicdate>2016-12-14 19:35:27</publicdate>
+  <date>1790</date>
+  <updatedate>2016-12-14 20:44:13</updatedate>
+  <updater>chrissy-robinson@archive.org</updater>
+  <identifier>compterendu00baso</identifier>
+  <uploader>chrissy-robinson@archive.org</uploader>
+  <addeddate>2016-12-14 20:44:15</addeddate>
+  <scanner>scribe2.indiana.archive.org</scanner>
+  <operator>associate-ladonna-hartmann@archive.org</operator>
+  <imagecount>26</imagecount>
+  <scandate>20161220154509</scandate>
+  <notes>No copyright. No table of contents. Title on cover. Damaged, stained pages and cover. &lt;br /&gt;</notes>
+  <ppi>300</ppi>
+  <foldoutcount>0</foldoutcount>
+  <identifier-access>http://archive.org/details/compterendu00baso</identifier-access>
+  <identifier-ark>ark:/13960/t3033wf68</identifier-ark>
+  <ocr>ABBYY FineReader 11.0</ocr>
+  <scanfee>100</scanfee>
+  <invoice>1068</invoice>
+  <sponsordate>20161231</sponsordate>
+</metadata>

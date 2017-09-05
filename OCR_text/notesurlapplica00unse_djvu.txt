@@ -1,0 +1,389 @@
+DIX-HUITIÈME ANNÉE. (N°. CLXXVII.) MARS 1819. 
+
+
+BULLETIN 
+
+• • i-it c ’ ' flO ti ci c tl- 
+
+D E L A 
+
+SOCIÉTÉ D’ENCOURAGEMENT 
+
+: •••:> o; ■ '■ .T J. oi ' / . Jii-; ,.p „ ■/■=.; ,-> «h n 
+
+POUR L’INDUSTRIE NATIONALE. 1 
+
+
+ARTS MÉCANIQUES. 
+
+^ ‘ - Ovj ! • Jr ’!,}■;■ ..I ç y. ; I 
+
+Extrait d’un rapport fait par M. Francœur 9 au nom du 
+Comité des arts mécaniques , sur un nouveau mode de com - 
+pensation des pendules , proposé par M. Piault , l’un des 
+membres de la Société d’ Encouragement. 
+
+! ■ - . . . r . ‘ ' ' . > f . , V- f . ; rV. \ . . , t 
+
+M. le Rapporteur, avant de donner la description du balancier com- 
+pensateur de M. Piault , entre dans quelques détails sur les moyens 
+employés pour corriger les variations qu’éprouvent les pendules par les 
+altérations de la température , qui contracte et dilate les métaux dont 
+on les forme, moyens qui ont été tirés de la cause même qui les rendait 
+nécessaires. 
+
+On sait que les métaux sont inégalement dilatables par la chaleur; 
+par exemple, l’acier non trempé l’est moins que le cuivre, dans le rap- 
+pprt de 5 à 8 , c’est-à-dire , que la même température qui serait ca- 
+pable d’allonger une barre d’acier recuit de 5 millimètres, allongerait 
+une barre de cuivre de même longueur de 8 millimètres. On a tiré 
+parti de cette propriété pour amener les pendules à conserver leur lon- 
+gueur invariable, et par conséquent à avoir des oscillations sans cesse 
+égales, c’est-à-dire, à être compensateurs. 
+
+Pour cet effet, on construit un cadre de cuivre, composé de quatre 
+tiges soudées en forme de long rectangle , dont les deux courtes sont 
+horizontales et les deux longues verticales; la branche transversale in- 
+Eix -huitième année. Mars 1819. I 
+
+
+( 66 ) 
+
+férieure étant soudée au bout d’une tige d’acier qui oscille , et dont l'ex- 
+trémité supérieure est menée par l’échappement de l’horloge , il en ré- 
+sulte que la chaleur fera allonger toutes les parties de ce système , 
+et que le cadre entier descendra un peu ; mais en même temps ses di- 
+mensions s’allongent , la traverse supérieure qui ne tient pas à la tige 
+d’acier , quoique réunie à la traverse inférieure , s’élevant alors. On 
+conçoit qu’en proportionnant les longueurs des barres verticales d’acier 
+et de cuivre , conformément à la loi de dilatation de ces métaux , la 
+traverse supérieure pourra avoir précisément autant monté que des- 
+cendu , et par conséquent sera restée à la même distance du point 
+de suspension. Si donc cette barre porte la lentille du balancier, elle 
+sera demeurée dans te même état d’oscillation que si la température 
+n’avait pas changé. Ainsi, les vibrations auront conservé leur durée 
+constante. 
+
+Comme il n’y a pas assez de différence entre les dilatations des deux 
+métaux, un seul cadre ne suffit pas pour produire la compensation -, on 
+combine donc ensemble plusieurs châssis j 1e premier en supporte un 
+second en fer, celui-ci un troisième en cuivre, et ainsi alternativement. 
+Ces assemblages , qui se disposent en forme de grille, en ont pris 1 e nom 
+de pendule en grille ; les effets de çes divers cadres s’ajoutent, et on 
+arrive au but désiré. 
+
+Le plus difficile n’est pas de concevoir cet assemblage, ni même d’en 
+demander les proportions au calcul ; on trouvera dans la Physique de 
+Biot , tome I, page 176, les formules destinées à cet objet , et dans le 
+Traité d’Horlogerie de F. Berthoud , tes dimensions que doivent avoir 
+les branches d’acier et de cuivre dans tes pendules à secondes et à demi- 
+secondes. 
+
+Il reste ensuite à exécuter les châssis avec les proportions requises 1 
+mais tes plus petites erreurs dans tes longueurs des barres verticales 
+peuvent en produire de sensibles dans la durée des oscillations, et dé- 
+truire l’effet compensateur qu’on recherche. Les procédés suivant les- 
+quels on peut mesurer cés longueurs sont bien imparfaits, quand en- 
+suite on les veut soumettre à l’épreuve si délicate des vibrations, qui 
+amplifient indéfiniment tes moindres écarts. On pourrait bien plutôt pré- 
+dire la longueur d’un pendule d’après son mouvement, que celui-ci d’a- 
+près sa longueur. Aussi doit -on prendre ie soin d’exposer le pendule 
+dans des circonstances extrêmes où l’on puisse juger si la compensation 
+est produite. Pour cet effet, on met du feu dans la cage de la pen- 
+dule pour échauffer 1e balancier $ ensuite on l’expose au froid, ou même 
+
+
+C 67 ) 
+
+à la température ordinaire ; on suit ses mouvemens et on les compare 
+à ceux d’une pendule déjà reconnue pour être exactement compensatrice ; 
+ou plutôt on compare les durées à celles des mouvemens célestes , qui 
+sont , comme on en est assuré , le seul exemple dans l’univers du mou- 
+vement parfaitement uniforme. 
+
+On n’assemble pas d’abord fixement les barreaux des châssis ; des vis 
+de pression suffisent pour les arrêter momentanément : après l’épreuve , 
+on allonge ou accourcit légèrement les tiges de cuivre ou celles d’acier ; 
+enfin, quand le mouvement a été reconnu pour uniforme, on soude et 
+on supprime les vis. 
+
+Il est inutile de dire que l’épreuve dont il s’agit est la seule chose dé- 
+licate dans cette opération ; qu’elle exige à -la -fois du temps et des 
+soins , et qu’elle élève beaucoup le prix de la machine. Mais dans les 
+pendules de cheminée, même les plus exactes, on ne se donne pas la 
+peine de régler le pendule; comme les oscillations n’y sont que de demi- 
+seconde , l’isochronisme n’existe plus , et il serait inutile de mettre une 
+rigueur plus grande dans la confection du pendule. D’ailleurs, les al- 
+ternations de la température sont fort limitées dans nos appartemens , et 
+ou se contente de fabriquer les pendules compensateurs d’après les di- 
+mensions prescrites. On réserve pour les instrumens d’astronomie une 
+rigueur qui ici serait superflue. Ces pendules compensateurs sont faits 
+en fabrique et livrés au commerce au prix modique de i 5 à 20 francs. 
+
+Le pendule compensateur de M. Piaule se compose de quatre petites 
+barres égales d’acier recuit, assemblées par des goupilles qui en retien- 
+nent les extrémités sous la forme d’un losange ; ces goupilles ne sont 
+pas assez serrées pour empêcher un mouvement de charnière aux quatre 
+angles. On conçoit qu’en écartant deux sommets opposés le losange s’a- 
+platira, parce que les deux autres sommets s’approcheront. Les deux an- 
+gles opposés sont réunis par une petite barre de laiton placée en travers 
+et soudée à leurs sommets. Ces cinq barres s’allongeant à mesure que 
+la température s’élève , accroîtront l’étendue du losange et éloigneront 
+les sommets libres ; les deux autres sommets seront pareillement écartés 
+par l’allongement de la barre de laiton , qui les joint ; l’auteur pense 
+que ces effets opposés pourront se compenser. 
+
+D’après cette explication , le pendule de M. Piault est aisé à con- 
+cevoir. Divers barreaux d’acier croisés en X et joints par des goupilles, 
+sont mis bout à bout à d’autres X semblables et forment une série de 
+losanges qu’on place verticalement ; un bout est mis en suspension et 
+mené par l’échappement d'une horloge quand le système oscille ; l’autre 
+
+I 2 
+
+
+
+( 68 ) 
+
+extrémité supporte une lentille. A l’un de ces losanges on fixe un bar- 
+reau horizontal de laiton qui maintient écartés deux sommets de lo- 
+sanges. L’auteur pense que s’il y a juste proportion entre les dimensions 
+de cette barre et l’étendue des losanges^ la compensation s’établira, parce 
+que le laiton étant plus dilatable que l’acier recuit 3 écartera ces deux 
+angles opposés, et par suite tous les sommets placés parallèlement à l’ho- 
+rizon ; cet écart sera assez fort pour rapprocher tous les sommets qui 
+sont dans la direction verticale, d’autant que la dilatation de l’acier les 
+avait éloignés. Quand la température s’abaisse, l’effet sera contraire; 
+l’accroissement du barreau de laiton opérera un tirage sur les sommets 
+opposés dans la direction horizontale , et écartera par conséquent les 
+sommets dirigés dans la ligne à-plomb. Le pendule s’allongera d’autant 
+que le froid l’aura raccourci , et la lentille sera restée à la même dis- 
+tance du point de suspension. 
+
+Ce système a paru au Comité des arts mécaniques , simple et ingé- 
+nieux, mais d’une application difficile, parce qu’il est à craindre qu’on 
+n’ait de la peine à donner aux parties les justes proportions qui doivent 
+produire la compensation. M. Prony, qui a eu la même idée il y a vingt 
+ans , l’a abandonnée par cette raison. Au surplus , M. Piault n’ayant 
+pas fait exécuter son pendule, c’est à l’expérience à prononcer sur ses 
+avantages comparativement avec les pendules ordinaires. 
+
+M- le Rapporteur rappelle 3 k cette occasion , qu’il a tu à Florence 
+une excellente pendule dont la lentille était soutenue par une simple 
+règle de bois. Le propriétaire s’en servait pour des observations astro- 
+nomiques. M. Delambre assure avoir éprouvé un instrument pareil s 
+qui lui a paru aussi exact que les meilleurs pendules compensateurs; il 
+serait donc à désirer qu’on fît usage de ces balanciers de bois dans les 
+pendules du commerce, parce qu’ils sont très-peu chers et plus exacts 
+que les autres. M. Brèguet ne partage cependant pas cette opinion , 
+ayant essayé des règles de bois dur préparé de diverses manières, dont 
+il n’a pas obtenu des résultats aussi satisfaisans que les faits physiques 
+tendent à le faire croire. 
+
+Graharn , célèbre horloger anglais, a imaginé un pendule composé 
+d’une tige de fer au bout de laquelle est fixé un cylindre de verre à- 
+peu-près plein de mercure. Lorsque la température s’élève, la verge 
+s’allonge, le vase cylindrique descend avec le mercure qu’il contient; 
+mais eu même temps le mercure se dilate et bien plus que le fer, en 
+sorte que le fluide métallique monte dans le vase. Comme le poids du 
+mercure fait presque la totalité du poids entier de ce pendule, il serait 
+
+
+( 69 ) 
+
+bien aisé de trouver par le calcul ce qu’il faut mettre de mercure dans 
+le vase pour que le centre d’oscillation reste a la meme distance de 1 axe 
+de suspension. Si I on ne veut pas s en rapporter au seul calcul , les cor- 
+rections que l’expérience pourrait indiquer seront du moins très-faciles 
+à faire , puisqu’elles se réduisent à ajouter ou ôter du mercure. 
+
+Il est à regretter qu’on 11e fasse plus usage de ce pendule. 
+
+Note sur V application de la machine à vapeur aux presses 
+
+d’imprimerie (1). 
+
+Il y a actuellement à Londres trois imprimeries où l’on voit des presses 
+mues par la machine à vapeur; celles de MM. Bensley , Taylor et 
+Cooper. Dans la première, il y a deux presses; l’une n’imprime que 
+d’un côté, comme les presses ordinaires ; l’autre, plus grande, imprime 
+deux côtés en même temps, mais non sur la même feuille. Chacune 
+est servie par deux enfans seulement, dont l’un étend la feuille blanche 
+ou celle qui est tirée d’un côté, sur un plan flexible et mouvant qui 
+l’emmène rapidement j l’autre retire la feuille qui vient de recevoir l’im- 
+pression. Une petite machine à vapeur de la force de deux chevaux , pla- 
+cée dans un cabinet voisin, et dont l’action se transmet aux deux presses, 
+fait tout le reste de l’ouvrage avec une rapidité inconcevable. On tire 
+quinze feuilles sur les deux faces par minute , ce qui équivaudrait à 
+neuf cents feuilles par heure et dix-huit cents sur une face. La presse 
+ordinaire emploie deux ouvriers, hommes faits, dont l’un d’eux exerce 
+une action violente sur le barreau pour ne tirer que deux cent cinquante 
+feuilles d’un côté seulement ; ainsi , l’effet comparé à celui de la presse 
+commune est ici dans le rapport de 180 à 25 . 
+
+La presse vue à quelque distance, ressemble un peu, par sa forme 
+et son action, aux machines à carder le coton ou la laine pour les fi- 
+latures. On y voit un nombre de cylindres petits et gros en mouvement 
+plus ou moins rapide , et une grande et longue table qui va et vient 
+par un mouvement horizontal aussi prompt que régulier. 
+
+L’une des plus grandes difficultés que M. Kœnig , auteur de cet ap- 
+pareil ingénieux, eut à vaincre, fut la distribution bien égale et uni- 
+forme de l’encre sur les caractères placés dans leurs formes comme à 
+l’ordinaire: voici comment ce problème physico-mécanique a été résolu. 
+
+( 1 ) Voyez, pour plus de détails, la description que nous avons donnée de la presse 
+de M. Kœnig, dans le Bulletin N°. CXLI , quinzième année, page 56. 
+
+
+» 
+
+
+C 7° ) 
+
+On voit à l'extrémité antérieure de la machine un système de rou- 
+leaux horizontaux, dont tous les axes sont disposés les uns au-dessus des 
+autres dans un même plan vertical. Immédiatement au-dessus du rouleau 
+supérieur est une trémie longue et étroite qui contient l’encre à son degré 
+ordinaire d’épaisseur • elle coule lentement en petits filets sur ce rou- 
+leau , et ne tarde pas à être comprimée et déjà un peu étendue entre 
+ce même rouleau et celui qui tourne immédiatement au-dessous et en 
+contact avec lui ; de là elle s’étend mieux encore sur un troisième qui, 
+pour bien égaliser, a un léger mouvement de va et vient dans le sens 
+de son axe ; enfin , l’encre ainsi étendue et soumise à la série des rou- 
+leaux comme à autant de laminoirs, est distribuée par le dernier sur un 
+plan qui forme la partie antérieure de la grande table mobile. Ce plan 
+happe l’encre et la communique de suite à un grand rouleau qui passe 
+dessus et aussitôt après sur les caractères, lesquels, après avoir reçu \o> 
+papier, vont passer sous un cylindre comprimant dont l’action remplace 
+la presse ordinaire. Alors tout est terminé ; le tirage est d’une égalité 
+et d’une netteté parfaites. 
+
+Les rouleaux distributeurs de l’encre sout enduits d’une composition 
+qui n’est autre chose qu’un mélange de colle-forte ordinaire avec du 
+sucre brut ou de la mélasse (gélatine et mélasse); ce dernier ingré- 
+dient ayant la faculté d’attirer l’humidité de l’air , empêche la dessicca- 
+tion du mélange au degré qui lui enlèverait la souplesse requise, tout 
+en lui laissant la consistance qu’exige son emploi, et qui est à-peu- 
+près celle de la résine élastique ou caoutchouc. Cette même matière 
+est employée dans l’établissement de M. de Lasteyrie , pour garnir les 
+rouleaux qu’on charge d’encre pour les impressions lithographiques. 
+
+Le mouvement de va et vient si lestement exécuté par une large et 
+longue table bien lourde , a quelque chose de surprenant par sa dou- 
+ceur et sa régularité ; en voici le mécanisme qui est très-ingénieux. Il 
+est produit par un râteau que conduit un fort pignon, lequel $ quoique 
+tournant toujours dans le même sens , procure à ce râteau et à la table 
+sous laquelle il est attaché et qu’il charrie sur roulettes, un mouve- 
+ment alternatif horizontal dans deux sens opposés , par la disposition 
+suivante. 
+
+Le râteau est composé d’une large et épaisse bande de fer, longue 
+de toute l’étendue du mouvement qu’on veut donner à la table j 
+cette bande est dentée sur toute sa circonférence sans interruption , 
+c’est-à-dire, à son côté supérieur et inférieur et aux deux extrémités 
+convenablement arrondies. Le pignon qui engrène ce système longi- 
+
+
+
+( 7 1 ) 
+
+tudinal de denture , est fixé au bout d’un long axe horizontal sou- 
+tenu à l’autre extrémité, où il reçoit la puissance motrice, par une 
+tige à double charnière qui lui permet à -la -fois deux mouvemens , 
+l’un de rotation sur son axe, l’autre d’ascension et de descente à l’ex- 
+trémité qui porte le pignon , d’une quantité égale au diamètre du 
+râteau ou à sa hauteur dans le sens vertical. L’axe du pignon est logé 
+dans une coulisse verticale qui le contient et le dirige toujours dans 
+son ascension et descente alternatives forcées, par son engrenage avec 
+le râteau, dont il occupe tantôt la denture supérieure, tantôt l’infé- 
+rieure, tantôt enfin le passage de l’une à l’autre par la denture circu- 
+laire des extrémités. Ainsi le râteau va et vient pendant que le pignon, 
+tournant toujours du même côté, engrène d’abord toute la denture su- 
+périeure par exemple , ensuite descend pour engrener la partie circulaire 
+qui termine le râteau à une extrémité, puis le conduit dans le sens op- 
+posé par sa denture inférieure , enfin remonte à la supérieure eu tour- 
+nant autour de son autre extrémité, etc. Rien de plus simple et de plus 
+élégant que ce jeu. 
+
+La presse qu’on voit dans les ateliers de M. Taylor , paraît ne 
+pas différer essentiellement de la précédente. La machine à vapeur 
+qui la fait mouvoir est beaucoup plus petite que celle de M. Bensley. 
+Dans la troisième presse à vapeur, celle de M. Cooper , qui pa- 
+raît simplifiée comparativement aux précédentes , le vet et vient de 
+la table qui porte les caractères, agit par un mécanisme analogue à 
+celui qui vient d’être décrit , mais qui en diffère beaucoup dans l’exé- 
+cution. C’est bien aussi un râteau et un pignon; mais ici l’axe du pi- 
+gnon est fixe , c’est-à-dire , qu’il n’a d’autre mouvement que la ro- 
+tation dans un même sens; le pignon occupe la partie interne d’un 
+long râteau fabriqué en forme d’anneau aplati dans toute sa longueur, 
+et qui n’a de circulaire que ses deux extrémités. Cet anneau plat est 
+un peu plus large que le diamètre du pignon ; de manière que lorsque 
+celui-ci engrène le côté inférieur, ses dents ne touchent point le côté supé- 
+rieur, et vice versâ ,* ce petit mouvement d’ascension et de descente de 
+l’anneau, parallèlement à lui-même, qui a lieu pour que ses dents, toutes 
+intérieures, engrènent le dessus et le dessous du pignon alternativement, 
+est produit par un levier, et ici c’est le râteau qui vient chercher le pi- 
+gnon, tandis que par le mécanisme précédent l’axe du pignon se meut 
+dans le sens vertical pour faire engrener le râteau tour-à-tour par-dessus 
+et par-dessous, et toujours à l’extérieur. 
+
+Cette presse n’opère pas encore, sa construction n’étant pas tout à -fait 
+achevée. 
+
+
+( 7 2 ) 
+
+
+Rjffort fait par 3d. Humbîot- Conté , au nom du Comité 
+des arts mécaniques , sur une scie circulaire pour débiter le 
+bois de placage ? inventée par M. Haks. 
+
+Messieurs , vous avez chargé votre Comité des arts mécaniques de 
+vous présenter un rapport sur la scie circulaire de M. Haks , méca- 
+nicien , rue du Faubourg Saint-Antoine , cour Saint-Louis. Nous nous 
+sommes transportés dans les ateliers de cet habile mécanicien , qui , de- 
+puis long-temps, s’est occupé de débiter des bois de placage avec des 
+scies alternatives, et qui a apporté des perfectîonnemens notables à ce 
+genre d’industrie , comme nous avons pu nous en assurer en voyant ses 
+machines et les produits qu’il eu obtient. 
+
+La scie circulaire de M. Haks n’a pas été faite à l’imitation de celle 
+des Anglais, et telle qu’elle est elle est tout entière de son invention; 
+seulement c’est la connaissance qu’il a eue qu’il en existait en Angleterre, 
+qui lui a donné l’idée d’en faire une (i). Aussi, n’étant pas éclairé par 
+l’expérience, n’a-t-il pas évité un vice de construction que l’expérience 
+pouvait peut-être seule lui indiquer. ïl Fa faite d’un diamètre trop 
+petit; elle n’a que 7 pieds, et c’est à cette première faute qu’il attribue 
+avec raison les nombreux obstacles qu’il a eu à surmonter pour la mettre 
+en activité. La plus petite de celles qui sont dans les ateliers de Bat- 
+tersea, près Londres, a g pieds de diamètre, et les madriers que l’on 
+peut scier avec ne sont guère plus larges que ceux que M. Haks di- 
+vise avec la sienne. Les scies que M. Brunei a construites, depuis la 
+première, sont toutes d’un diamètre supérieur , il en établit de 18 pieds. 
+
+Du reste , sous tous les autres rapports , l’invention française nous 
+parait mériter la préférence. 
+
+D’abord la scie est plus légère et ne pèse certainement pas le quart 
+de celle des Anglais, d’où il résulte moins de dépense de construction 
+et moins de résistance dans les fi ottemens ; aussi tourne-t-elle avec une 
+rapidité bien plus grande, et les traits de scie étant plus rapprochés, le 
+bois est mieux dressé , est plus près d’être poli. 
+
+En second lieu , les traits sont bien moins profonds et moins marqués 
+sur le bois, ce qui permet de tirer plus de feuilles au pouce, tout en 
+leur conservant une épaisseur suffisante. M. Haks en obtient douze à treize, 
+
+(1) Le premier inventeur des scies circulaires est un Français , M. Brunei , qui a en- 
+richi les arts et les ateliers de la marine , en Angleterre , de nombreuses et admirables 
+
+machines. 
+
+
+L 
+
+
+et 
+
+

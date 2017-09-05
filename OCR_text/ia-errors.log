@@ -15,3 +15,13 @@ Could not download dlugedesaristocr00unse because of error: 404 Client Error: No
 Could not download dnonciationdespr00unse because of error: 404 Client Error: Not Found for url: https://ia601304.us.archive.org/28/items/None/dnonciationdespr00unse_djvu.txt
 Could not download dpartementdelaha00unse because of error: 404 Client Error: Not Found for url: https://ia601304.us.archive.org/28/items/None/dpartementdelaha00unse_djvu.txt
 Could not download editduroi00unse_11 because of error: 404 Client Error: Not Found for url: https://ia601304.us.archive.org/28/items/None/editduroi00unse_11_djvu.txt
+Could not download changementdansla00guil because of error: Error retrieving metadata from https://archive.org/metadata/changementdansla00guil, unsupported operand type(s) for -=: 'Retry' and 'int'
+Could not download chansonloccasion00cham because of error: Error retrieving metadata from https://archive.org/metadata/chansonloccasion00cham, unsupported operand type(s) for -=: 'Retry' and 'int'
+Could not download dialogueentrepat00gros_0 because of error: Error retrieving metadata from https://archive.org/metadata/dialogueentrepat00gros_0, unsupported operand type(s) for -=: 'Retry' and 'int'
+Could not download discoursimprovis00burk_0 because of error: Error retrieving metadata from https://archive.org/metadata/discoursimprovis00burk_0, unsupported operand type(s) for -=: 'Retry' and 'int'
+Could not download discoursinstruct00chen because of error: Error retrieving metadata from https://archive.org/metadata/discoursinstruct00chen, unsupported operand type(s) for -=: 'Retry' and 'int'
+Could not download discourslareinep00dela because of error: Error retrieving metadata from https://archive.org/metadata/discourslareinep00dela, unsupported operand type(s) for -=: 'Retry' and 'int'
+Could not download discourslireauco00bonn_0 because of error: Error retrieving metadata from https://archive.org/metadata/discourslireauco00bonn_0, unsupported operand type(s) for -=: 'Retry' and 'int'
+Could not download jeandebrydeputel00debr because of error: Error retrieving metadata from https://archive.org/metadata/jeandebrydeputel00debr, unsupported operand type(s) for -=: 'Retry' and 'int'
+Could not download prospectus00mout because of error: unsupported operand type(s) for -=: 'Retry' and 'int'
+Could not download rapportfaitparbo00boul_2 because of error: Error retrieving metadata from https://archive.org/metadata/rapportfaitparbo00boul_2, unsupported operand type(s) for -=: 'Retry' and 'int'

@@ -1,0 +1,158 @@
+
+
+
+
+
+l&H., 
+
+
+
+1 
+
+
+
+
+PROSPECTUS 
+
+
+D’un Ouvrage intitulé Grammarit h mes j ou Expressions 
+Littérales de tous les Nombres &c. Approuvé par l’Aca- 
+démie Royale des Sciences de Paris 3 & dédié à S. A. Monjeigneur 
+Charles-Eugene de Lorraine , Prince de Lambefc Pair 
+& Grand Ecuyer de France > &c. Par le P. Archange de 
+Char leroy 3 Capucin. 
+
+f .Es Calculs , foit de l’Arithmétique , foit de l’Algèbre, étant afifez 
+fouvent très-pénibles , tant par leur longueur que par la multipli- 
+cité 8c la difficulté des opérations qu’ils exigent , j’ai cru , après le 
+jugement de l’Académie Royale des Sciences de Paris * , que le Public 
+ne pourrait recevoir que très-favorablement une Méthode de mon in- 
+vention , qui non-feulement abrégera & le nombre 8c la durée de ces 
+mêmes opérations , mais encore qui en applanira prefque toutes les 
+difficultés. 
+
+Cette Méthode , dont feu M. de Fontenelle dans fon Hiftoire de 
+’Académie délirait tant l’invention, confite dans certaines Expreilions 
+Algébriques , que j’appelle Grammarithmes pour les diltinguer des Lo- 
+garithmes , avec lefquels elles ont un certain rapport j j’y donne à 
+chacune des 1 5 lettres de l’Alphabeth , y compris l’v 8c le w , une valeur 
+fixe 8c déterminée:par ex. a=z , b=3 , c=q , d=7 , e=i 1 , «Sec. jufqu’i z 
+" qui vaut 97 , 8c avec ces z 5 lettres je forme les expreffions des nombres 
+compofés, comme a 2 =q, ab=£, a î= 8 , b 2 =p , ac=ro, 8c ainfi de fuite 
+jufqu’à ,100 qui elt exprimé par a 2 c 2 . 
+
+
+* Jugement de MeJJleurs les Commijfaires de V Académie Royale des Sciences. 
+
+Ce travail nous a paru devoir être utile; il elt une infinité d’occafions dans 
+l’application des Mathématiques, où la décompofitionjdes Nombres en leurs fadeurs, 
+eft abfolumcnt nécefiaire ; les Tables du Tere Archange y fatisferont; & d’ailleurs 
+il eftaifé de voir que plufieurs opérations feront extrêmement facilicées par l’ufage 
+de ces Tables. Nous croyons donc que l’Académie peut approuver le zèle duPere 
+Archange -, ainfi que fon Ouvrage , qui prouve de l’intelligence & une confiance 
+
+
+u commune. Signé Pontaine & Bezout. 
+
+Je certifie le préfent Extrait conforme à fon original & au Jugement de l’Acadé- 
+
+
+peu commune. 
+
+
+mie. A Paris ce 14 Juillet 1763. Signé Grandjean px Foüchy , Secrétaire Per- 
+pétuel de l’Aeadémie. 
+
+
+X 
+
+Au-delà de 100, les nombres premiers font repréfentés par des binô- 
+mes dont le fécond terme eft l’unité , ou l’une des 2 5 lettres, félon que 
+le cas l’exige , laquelle lettre pour lors ne fe trouve pas dans le terme 
+précédent, ainfi a 2 c 2 +i=ioi,a 3 0+15=347, a^bi+o^ 1 5 57,a 3 b3c+d=io87, 
+a 2 bf 2 +6=2039, & ainiî des autres , &c j’en forme les expreilions binô- 
+mes de leurs nombres compofés, comme a 2 dw+ab=22i8 , ab 2 cy+bd 
+=803 1 , &c. 
+
+Les Tables qui contiennent ces fortes d’Exprefiions répondent à tous 
+les Nombres naturels jufqu’à 25000, je ne les avois d’abord étendues 
+que jufqu’à 10000 5 mais de l’avis de Meilleurs Fontaine & Bezout , 
+Commiifaires de l’Académie pour l’examen de mon Ouvrage , je les ai 
+prolongées jufqu’à 25000. 
+
+Après ces premières Tables il s’en trouve d’une autre efpèce que j’ap- 
+pelle du répertoire, & qui vont jufqua 1000000 : c’eft dans celles-ci 
+qu’011 cherche la valeur inconnue d'un Grammarithme , lorfqu’il eft le 
+réfultat d’une opération , à peu-près comme dans les Tables des Loga- 
+rithmes on cherche à quel nombre appartient celui qui réfulte d’une 
+addition ou d'une fouitradion logarithmique. 
+
+Les principaux avantages de ma Méthode font que, même à la feule 
+infpedion d’un Grammarithme , on connoît fi le nombre auquel il ap- 
+partient, eft pair ou impair j premier ou compofé, s’il eft une puiflance 
+exade ou non , & quelle en eft ou la puilfance ou la racine 3 quels font 
+tous fes fadeurs ou divifeurs ftmples ou compofés , s’il eft un radical ré- 
+dudible ou irréductible , ôc en quelle quantité on peut le réduire 3 li 
+deux ou plulieurs nombres font commenfurables , premiers ou com- 
+pofés entr’eux , & quels en font -, foit les divifeurs communs , foit le 
+plus grand commun divifeur 3 fi l’un eft exadement divifble par 
+l’autre 3 bref, le nombre ne renferme prefqu’aucune propriété qu’on 
+ne puiiTe découvrir à la feule infpedion de fon Grammarithme, même 
+fans connoître ledit nombre auquel il appartient. 
+
+Ajoutons à cela que l’on peut également s’en fervir comme des Loga- 
+rithmes ordinaires pour la Multiplication & la Divifion Arithmétique, 
+la formation des puilfances & l’extradion des racines3&. c’eft à cette der. 
+nière fin qu’ après les deux efpèces deTablesdont on vient de parlerai en 
+eft une troifiéme contenant, avec 10 fradions décimales, la racine quar- 
+rée de tous les nombres jufqu’à ioo3enfincn trouve encore dans les deux 
+Tables fufdites, les quarres de tous les nombres jufqu’à 1000, leurs 
+cubes jufqu’à 100, & leurs autres puiflances à proportion. _ 
+
+Ces ulages & ces prérogatives de ma Méthode font clairement 
+expliqués & à la portée de tout le monde dans une courte Introdudion 
+qui précédé les Tables, & que je donne en François &c en Latin pour 
+la commodité des Etrangers. Ce Volume qui fera un in-quarto de meme 
+
+
+grandeur, caractère & papier que le préfent Profpeétus, contiendra au 
+moins <joo pages ; il n eft, au Jugementde l’Academie, la preuve d’une 
+confiance peu commune , que , parce que le travail en eft immenfe , 
+comme les Lecteurs pourront eux-mêmes en juger par la fuite, pouvant 
+dire en quelque façon que j ai pris fur moi une grande partie des peines 
+qui accompagnent ordinairement les grands Calculs. Quand je dis 
+grands Calculs , j entends egalement ceux de l’Arithmétique , comme 
+ceux de 1 Algebre;puifque meme fans avoir la moindre teinture decette 
+derniere Science , ma Méthode peut être en mille occafions d’un très- 
+grand avantage; d ou il eft aife de conclure qu'il n’eft aucun Mathéma- 
+ticien , pour peu Calculateur qu il puifïe être , qui ne doive defirer 
+1 acquifitiond un ouvrage^dans lequel il trouvera d’aufli grandes refîour- 
+ces. Mais parce que ce meme Ouvrage exige de grands frais d’impref- 
+lion ^ par le grand nombre de chiffres ôc de caraétères algébriques 
+qui s y trouvent , & que d’ailleurs mon état ne me permet pas d'en 
+ratre les avances, j ai 1 honneur _, M de vous adrefter le 
+
+prefentProfpeéi:us,vous priant de le communiquer aux connoifteurs,afin 
+que s il eu de leur goût, ils puifîent profiter de l’avantage de la Souf- 
+cnption que je propofe, & qui n’aura lieu que jufqu’au premier du 
+mois de Septembre prochain. Le prix pour les Soufcripteurs fera de 9 1. 
+relie en veau, les autres le payeront dans la fuite 12 liv. : il fuffira de 
+donner 6 liv. en foufcrivant , le refte fera payé en recevant le Volume. 
+
+
+
+
+I 
+
+
+
+
+syv'trr) 't-Ojjo -r»£ ~jvu4rty\j -m p 
+
+
+
+
+
+
+
+

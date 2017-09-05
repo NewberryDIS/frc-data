@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <language>fre</language>
+  <scanningcenter>indiana</scanningcenter>
+  <sponsor>The Newberry Library</sponsor>
+  <contributor>The Newberry Library</contributor>
+  <date>1752</date>
+  <subject>La Baume-Desdossat, Jacques-François de, 1705-1756</subject>
+  <subject>Lambert, Michel, 1722?-1787</subject>
+  <subject>Booksellers and bookselling</subject>
+  <title>La Christiade, ou, Le paradis reconquis</title>
+  <creator>Lambert, Michel,1722?-1787</creator>
+  <creator>Lambert, Michel, 1722?-1787</creator>
+  <creator>La Baume-Desdossat, Jacques-François de, 1705-1756. Christiade</creator>
+  <creator>Aveline, Pierre-Alexandre, ca. 1710-1760, engraver</creator>
+  <creator>Simon, Claude, d. 1752, printer</creator>
+  <creator>Perisse, André, bookseller</creator>
+  <creator>Giroud, Alexandre, 1708-1794, bookseller</creator>
+  <creator>Vatar, Joseph, bookseller</creator>
+  <creator>Carry &amp; Boyer, bookseller</creator>
+  <collection>newberryfrenchpamphlets</collection>
+  <collection>newberry</collection>
+  <collection>americana</collection>
+  <shiptracking>TNL10012</shiptracking>
+  <call_number>Case Wing Z 45 .18 ser. 1a no. 96</call_number>
+  <publisher>A Paris : Chez Michel Lambert, libraire, rue de la Comédie Françoise, au Parnasse</publisher>
+  <physical-description>46, [2] p., [1] leaf of plates :ill ;16 cm.</physical-description>
+  <link-to-catalog>http://vufind.carli.illinois.edu/vf-nby/Record/nby_828477</link-to-catalog>
+  <description>Prospectus for La Baume-Desdossat's "La Christiade, ou, Le paradis reconquis"</description>
+  <description>"On souscrira à Paris chez Lambert, libraire, rue de la Comédie Françoise, a Lyon chez Perisse, rue Merciere, a Marseille chez Carry &amp; Boyer, a Avignon chez Alexandre Giroud, imprimeur de la Rde Chambre, a Nantes chez Joseph Vatar, imprimeur du roi &amp; de Monseigneur l'Evêque. On pourra souscrire pareillement chez les libraires des principales villes du royaume"--P. 46</description>
+  <description>Colophon: De l'Imprimerie de C.F. Simon, imprimeur de la reine &amp; de l'archevêché, 1752</description>
+  <description>Engraved frontispiece signed: Alais inv. ; P. Aveline sc</description>
+  <description>Title vignette; head- and tail-pieces</description>
+  <description>"Cet ouvrage, qui est chargé des notes, contiendra six volumes in-12 qui seront du prix de 18 liv. en feuilles par souscription"--P. 44</description>
+  <description>Bookseller's catalog: [2] p. at end</description>
+  <mediatype>texts</mediatype>
+  <repub_state>4</repub_state>
+  <page-progression>lr</page-progression>
+  <publicdate>2017-07-05 12:00:39</publicdate>
+  <updatedate>2017-07-05 13:06:38</updatedate>
+  <updater>chrissy-robinson@archive.org</updater>
+  <identifier>lachristiadeou00lamb</identifier>
+  <uploader>chrissy-robinson@archive.org</uploader>
+  <addeddate>2017-07-05 13:06:40</addeddate>
+  <scanner>scribe8.indiana.archive.org</scanner>
+  <notes>Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined.</notes>
+  <repub_seconds>87</repub_seconds>
+  <ppi>500</ppi>
+  <camera>Canon EOS 5D Mark II</camera>
+  <operator>associate-christine-calhoun@archive.org</operator>
+  <scandate>20170705153603</scandate>
+  <republisher>associate-stephanie-kinsey@archive.org</republisher>
+  <republisher_operator>associate-stephanie-kinsey@archive.org</republisher_operator>
+  <republisher_date>20170705210114</republisher_date>
+  <imagecount>56</imagecount>
+  <foldoutcount>0</foldoutcount>
+  <identifier-access>http://archive.org/details/lachristiadeou00lamb</identifier-access>
+  <identifier-ark>ark:/13960/t73v58643</identifier-ark>
+  <ocr>ABBYY FineReader 11.0</ocr>
+  <scanfee>100</scanfee>
+  <invoice>1068</invoice>
+  <curation>[curator]associate-annie-coates@archive.org[/curator][date]20170707110422[/date][state]approved[/state][comment]199[/comment]</curation>
+  <sponsordate>20170630</sponsordate>
+</metadata>

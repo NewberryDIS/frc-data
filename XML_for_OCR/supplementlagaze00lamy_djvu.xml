@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML>
+<DjVuXML>
+<BODY>
+<OBJECT data="file://localhost//var/tmp/autoclean/derive/supplementlagaze00lamy//supplementlagaze00lamy.djvu" height="2933" type="image/x.djvu" usemap="supplementlagaze00lamy_0001.djvu" width="2002">
+<PARAM name="PAGE" value="supplementlagaze00lamy_0001.djvu"/>
+<PARAM name="DPI" value="350"/>
+<HIDDENTEXT>
+<PAGECOLUMN>
+<REGION backgroundColor="13023385">
+<PARAGRAPH>
+<LINE>
+<WORD coords="1027,140,1036,117,140">I</WORD>
+</LINE>
+</PARAGRAPH>
+</REGION>
+</PAGECOLUMN>
+<PAGECOLUMN>
+<REGION backgroundColor="13682089">
+<PARAGRAPH>
+<LINE>
+<WORD coords="271,345,714,300,331">.SUPPLÉMENT</WORD>
+<WORD coords="757,337,779,311,337">A</WORD>
+<WORD coords="819,339,884,311,338">LA</WORD>
+<WORD coords="923,345,1207,312,342">GAZETTE</WORD>
+<WORD coords="1249,356,1626,321,352">NATIONALE.</WORD>
+</LINE>
+</PARAGRAPH>
+</REGION>
+</PAGECOLUMN>
+<PAGECOLUMN></PAGECOLUMN>
+<PAGECOLUMN>
+<REGION backgroundColor="13551275">
+<PARAGRAPH>
+<LINE>
+<WORD coords="1706,403,1750,381,403">&lt;*r</WORD>
+</LINE>
+</PARAGRAPH>
+<PARAGRAPH>
+<LINE>
+<WORD coords="1691,488,1731,468,485">ji~.</WORD>
+<WORD coords="1747,491,1756,471,491">?</WORD>
+</LINE>
+</PARAGRAPH>
+<PARAGRAPH>
+<LINE>
+<WORD coords="1675,747,1759,649,747">@</WORD>
+</LINE>
+</PARAGRAPH>
+</REGION>
+</PAGECOLUMN>
+</HIDDENTEXT>
+</OBJECT>
+<MAP name="supplementlagaze00lamy_0001.djvu"/>
+<OBJECT data="file://localhost//var/tmp/autoclean/derive/supplementlagaze00lamy//supplementlagaze00lamy.djvu" height="2933" type="image/x.djvu" usemap="supplementlagaze00lamy_0002.djvu" width="2002">
+<PARAM name="PAGE" value="supplementlagaze00lamy_0002.djvu"/>
+<PARAM name="DPI" value="350"/>
+<HIDDENTEXT>
+<PAGECOLUMN></PAGECOLUMN>
+</HIDDENTEXT>
+</OBJECT>
+<MAP name="supplementlagaze00lamy_0002.djvu"/>
+</BODY>
+</DjVuXML>
